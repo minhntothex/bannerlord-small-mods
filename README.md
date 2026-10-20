@@ -22,7 +22,6 @@ Chỉ đưa catalog đích tiếng Việt vào repo. Giữ catalog nguồn trong
 
 ## Quy tắc
 
-- Làm theo [quy trình chung](../../docs/workflow.md) và [quy tắc dịch chung](../../docs/translation-style.md).
+- Đọc [hướng dẫn dịch của dự án](docs/style-guide.md) và [bảng thuật ngữ](docs/glossary.md), rồi làm theo [quy trình chung](../../docs/workflow.md) và [quy tắc dịch chung](../../docs/translation-style.md).
 - Giữ nguyên ID, placeholder, markup và cấu trúc catalog.
-- Ghi thuật ngữ đã thống nhất trong tài liệu dự án khi bắt đầu dịch.
 - Chỉ viết hướng dẫn cài đặt hoặc phát hành sau khi xác minh cách game nạp ngôn ngữ và tính tương thích.
