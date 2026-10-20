@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="CTF_PromoteOption" text="Ta đã quyết định chính thức nhận ngươi vào gia tộc, để ngươi trở thành quý tộc trong nhà ta." />
+    <string id="CTF_PromoteResponse" text="Đó sẽ là vinh dự lớn nhất của thần. Thần sẽ không phụ lòng gia tộc." />
+    <string id="CTF_PromoteSuccess" text="{HERO_NAME} đã được nhận vào gia tộc của bạn với thân phận quý tộc." />
+    <string id="CTF_DemoteOption" text="Ta sẽ tước bỏ thân phận quý tộc của ngươi. Từ nay, ngươi sẽ phục vụ với tư cách bạn đồng hành bình thường." />
+    <string id="CTF_DemoteResponse" text="Như ngài muốn. Tôi sẽ tiếp tục phụng sự." />
+    <string id="CTF_DemoteSuccess" text="{HERO_NAME} giờ là bạn đồng hành bình thường." />
+  </strings>
+</base>

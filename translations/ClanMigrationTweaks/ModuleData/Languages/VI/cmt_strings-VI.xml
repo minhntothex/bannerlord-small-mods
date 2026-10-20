@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="CMT_MCM_Name" text="Clan Migration Tweaks" />
+    <string id="CMT_MCM_Group_ClanSettings" text="Thiết lập thị tộc" />
+    <string id="CMT_MCM_Group_JoinLeave" text="Điểm xét gia nhập và rời phe" />
+    <string id="CMT_MCM_Group_OfferLogic" text="Xử lý đề nghị" />
+    <string id="CMT_MCM_Group_Debug" text="Gỡ lỗi" />
+    <string id="CMT_MCM_ClanDiscontinuation_Name" text="Số ngày trước khi thị tộc độc lập giải thể" />
+    <string id="CMT_MCM_ClanDiscontinuation_Desc" text="Thời gian trước khi thị tộc độc lập giải thể." />
+    <string id="CMT_MCM_MinimumHeirAge_Name" text="Độ tuổi tối thiểu của người thừa kế" />
+    <string id="CMT_MCM_MinimumHeirAge_Desc" text="Độ tuổi tối thiểu để một thành viên thị tộc có thể trở thành thủ lĩnh khi thủ lĩnh hiện tại qua đời. Giá trị 18 là hành vi mặc định của game gốc. Đặt thành 0 để trẻ em cũng có thể trở thành người thừa kế." />
+    <string id="CMT_MCM_VassalFavor_Name" text="Ưu tiên gia nhập vương quốc người chơi với tư cách chư hầu" />
+    <string id="CMT_MCM_VassalFavor_Desc" text="Mức ưu tiên áp dụng khi các thị tộc cân nhắc gia nhập vương quốc do người chơi lãnh đạo với tư cách chư hầu. Giá trị 0.0 giữ nguyên hành vi của game gốc; giá trị dương tăng khả năng gia nhập, giá trị âm giảm khả năng đó." />
+    <string id="CMT_MCM_MercFavor_Name" text="Ưu tiên ký hợp đồng lính đánh thuê với vương quốc người chơi" />
+    <string id="CMT_MCM_MercFavor_Desc" text="Mức ưu tiên áp dụng khi các thị tộc lính đánh thuê cân nhắc ký hợp đồng với vương quốc do người chơi lãnh đạo. Giá trị 0.0 giữ nguyên hành vi của game gốc; giá trị dương tăng khả năng ký hợp đồng, giá trị âm giảm khả năng đó." />
+    <string id="CMT_MCM_LeaveFavor_Name" text="Ưu tiên thị tộc rời vương quốc người chơi" />
+    <string id="CMT_MCM_LeaveFavor_Desc" text="Mức ưu tiên áp dụng khi các thị tộc cân nhắc rời vương quốc do người chơi lãnh đạo. Giá trị 0.0 giữ nguyên hành vi của game gốc; giá trị dương khiến họ dễ rời đi hơn, giá trị âm khiến họ trung thành hơn." />
+    <string id="CMT_MCM_KingdomlessChance_Name" text="Xác suất thị tộc chưa có vương quốc cân nhắc gia nhập" />
+    <string id="CMT_MCM_KingdomlessChance_Desc" text="Xác suất (0.00–1.00) để một thị tộc chưa thuộc vương quốc cân nhắc gia nhập một vương quốc khi đến lượt kiểm tra. Trong game gốc, giá trị này khoảng 0.50." />
+    <string id="CMT_MCM_OfferTimeout_Name" text="Thời hạn đề nghị (ngày)" />
+    <string id="CMT_MCM_OfferTimeout_Desc" text="Số ngày trong game mà đề nghị gia nhập hoặc đổi phe dành cho người chơi còn hiệu lực nếu chưa được trả lời." />
+    <string id="CMT_MCM_RejectDuration_Name" text="Thời gian chờ sau khi từ chối đề nghị" />
+    <string id="CMT_MCM_RejectDuration_Desc" text="Số ngày trong game mà thị tộc không thể nộp lại đề nghị gia nhập cùng vương quốc sau khi bị từ chối. Giá trị 1 là hành vi mặc định của game gốc." />
+    <string id="CMT_MCM_PlayerKingdomCandidateWeight_Name" text="Điểm cộng ưu tiên vương quốc người chơi" />
+    <string id="CMT_MCM_PlayerKingdomCandidateWeight_Desc" text="Tăng trọng số cho vương quốc người chơi khi thị tộc chọn vương quốc để xem xét. Giá trị 0 giữ nguyên hành vi game gốc, không cộng thêm trọng số. Thiết lập này không ép thị tộc chọn vương quốc người chơi, chỉ tăng khả năng vương quốc đó được xem xét." />
+    <string id="CMT_MCM_DebugLog_Name" text="Ghi nhật ký điểm gia nhập và đổi phe" />
+    <string id="CMT_MCM_DebugLog_Desc" text="Khi bật, ghi điểm của thị tộc và vương quốc cùng quyết định về đề nghị vào nhật ký trong game để gỡ lỗi." />
+    <string id="CMT_MCM_DebugForceTarget_Name" text="Buộc chọn vương quốc người chơi làm mục tiêu (Thử nghiệm)" />
+    <string id="CMT_MCM_DebugForceTarget_Desc" text="Khi bật và người chơi có vương quốc, các lượt kiểm tra di cư thị tộc sẽ cố gắng chọn vương quốc người chơi làm mục tiêu khi có thể." />
+    <string id="CMT_MCM_DebugAlwaysPass_Name" text="Luôn cho phép thị tộc gia nhập/đổi phe sang vương quốc người chơi (Gỡ lỗi)" />
+    <string id="CMT_MCM_DebugAlwaysPass_Desc" text="Khi bật, các lượt kiểm tra điểm số về việc thị tộc gia nhập hoặc đổi phe sang vương quốc của người chơi sẽ luôn thành công, kể cả khi điểm thực tế không đạt. Quy tắc về denar và bồi thường vẫn áp dụng." />
+    <string id="CMT_DefectionOffer" text="Đề nghị đổi phe" />
+    <string id="CMT_MercOffer" text="Đề nghị ký hợp đồng lính đánh thuê" />
+    <string id="CMT_VassalOffer" text="Đề nghị trở thành chư hầu" />
+    <string id="CMT_Body_DefectWar" text="Thị tộc {CLAN} muốn rời {FROM_KINGDOM} để gia nhập {TO_KINGDOM}." />
+    <string id="CMT_Body_Mercenary" text="Thị tộc {CLAN} muốn ký hợp đồng lính đánh thuê với {KINGDOM}." />
+    <string id="CMT_VassalJoin" text="Thị tộc {CLAN} muốn gia nhập {KINGDOM} với tư cách chư hầu." />
+    <string id="CMT_Compensation_Pay" text="{PAYER} sẽ trả {AMOUNT} denar cho {RECEIVER}." />
+    <string id="CMT_Compensation_OfferMixed" text="{PAYER} sẽ bồi thường cho {RECEIVER} bằng {EXTRAS} trị giá {AMOUNT}." />
+    <string id="CMT_Fiefs_Line" text="Nếu đổi phe khi đang có chiến tranh, thị tộc {CLAN} sẽ mang theo các lãnh địa sau: {FIEFS}." />
+    <string id="CMT_Inquiry_AcceptOffer" text="Bạn có chấp nhận không?" />
+    <string id="CMT_DefectOfferNotif" text="Thị tộc {CLAN} đang cân nhắc gia nhập {KINGDOM} bằng cách đổi phe." />
+    <string id="CMT_MercOfferNotif" text="Thị tộc {CLAN} muốn ký hợp đồng lính đánh thuê với {KINGDOM}." />
+    <string id="CMT_VassalOfferNotif" text="Thị tộc {CLAN} đang cân nhắc gia nhập {KINGDOM}." />
+  </strings>
+</base>

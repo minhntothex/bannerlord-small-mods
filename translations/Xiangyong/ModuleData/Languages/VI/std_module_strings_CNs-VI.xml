@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="xy119_title" text="Phòng thủ làng" />
+    <string id="xy119_group_spawn" text="Điều kiện xuất hiện" />
+    <string id="xy119_group_counts" text="Quân số" />
+    <string id="xy119_no_militia" text="Số hộ tối đa để không xuất hiện dân binh" />
+    <string id="xy119_low_hearth" text="Số hộ tối đa để xuất hiện dân binh cấp thấp" />
+    <string id="xy119_mid_hearth" text="Số hộ tối đa để xuất hiện dân binh cấp trung" />
+    <string id="xy119_high_hearth" text="Số hộ tối đa để xuất hiện dân binh cấp cao" />
+    <string id="xy119_legend_hearth" text="Số hộ tối thiểu để xuất hiện dân binh huyền thoại" />
+    <string id="xy119_low_count" text="Quân số dân binh cấp thấp" />
+    <string id="xy119_mid_count" text="Quân số dân binh cấp trung" />
+    <string id="xy119_high_count" text="Quân số dân binh cấp cao" />
+    <string id="xy119_legend_count" text="Quân số dân binh huyền thoại" />
+    <string id="xy119_militia_name" text="Dân binh {VILLAGE_NAME}" />
+  </strings>
+</base>

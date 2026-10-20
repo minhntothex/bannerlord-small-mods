@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "language_id": "Vietnamese",
+  "source_language_id": "English",
+  "source_root": "Bannerlord",
+  "source_glob": "*.xml",
+  "modules": [
+    {
+      "id": "AgricultureEstate",
+      "source_dir": "AgricultureEstate/ModuleData/Languages",
+      "source_glob": "std_module_strings_xml.xml",
+      "target_dir": "translations/AgricultureEstate/ModuleData/Languages/VI",
+      "catalogs": {
+        "std_module_strings_xml.xml": "std_module_strings_xml-VI.xml"
+      }
+    },
+    {
+      "id": "BreakablePolearms",
+      "source_dir": "BreakablePolearms/ModuleData/Languages",
+      "source_glob": "str_EN.xml",
+      "target_dir": "translations/BreakablePolearms/ModuleData/Languages/VI",
+      "catalogs": {
+        "str_EN.xml": "str_EN-VI.xml"
+      }
+    },
+    {
+      "id": "ClanMigrationTweaks",
+      "source_dir": "ClanMigrationTweaks/ModuleData/Languages",
+      "source_glob": "EN/cmt_strings.xml",
+      "target_dir": "translations/ClanMigrationTweaks/ModuleData/Languages/VI",
+      "catalogs": {
+        "EN/cmt_strings.xml": "cmt_strings-VI.xml"
+      }
+    },
+    {
+      "id": "CompanionToFamily",
+      "source_dir": "CompanionToFamily/ModuleData/Languages",
+      "source_glob": "EN/str_companiontofamily_en.xml",
+      "target_dir": "translations/CompanionToFamily/ModuleData/Languages/VI",
+      "catalogs": {
+        "EN/str_companiontofamily_en.xml": "str_companiontofamily_en-VI.xml"
+      }
+    },
+    {
+      "id": "From_Ranks_To_Lords",
+      "source_dir": "FromRankstoLords/ModuleData/Languages",
+      "source_glob": "language_strings.xml",
+      "target_dir": "translations/From_Ranks_To_Lords/ModuleData/Languages/VI",
+      "catalogs": {
+        "language_strings.xml": "language_strings-VI.xml"
+      }
+    },
+    {
+      "id": "HeroesEvolve",
+      "source_dir": "HeroesEvolve/ModuleData/Languages",
+      "source_glob": "DE/hev_strings_ger.xml",
+      "target_dir": "translations/HeroesEvolve/ModuleData/Languages/VI",
+      "source_language_ids": {
+        "DE/hev_strings_ger.xml": "Deutsch"
+      },
+      "catalogs": {
+        "DE/hev_strings_ger.xml": "hev_strings_ger-VI.xml"
+      }
+    },
+    {
+      "id": "PerformanceTweaks",
+      "source_dir": "PerformanceTweaks/ModuleData/Languages",
+      "source_glob": "EN/pt_strings.xml",
+      "target_dir": "translations/PerformanceTweaks/ModuleData/Languages/VI",
+      "catalogs": {
+        "EN/pt_strings.xml": "pt_strings-VI.xml"
+      }
+    },
+    {
+      "id": "Xiangyong",
+      "source_dir": "Xiangyong/ModuleData/Languages",
+      "source_glob": "**/*.xml",
+      "target_dir": "translations/Xiangyong/ModuleData/Languages/VI",
+      "source_language_ids": {
+        "CNs/std_module_strings_CNs.xml": "简体中文",
+        "std_module_strings_xml.xml": null
+      },
+      "catalogs": {
+        "CNs/std_module_strings_CNs.xml": "std_module_strings_CNs-VI.xml",
+        "std_module_strings_xml.xml": "std_module_strings_xml-VI.xml"
+      },
+      "excluded_source_catalogs": [
+        "CNs/language_data.xml",
+        "CNt/language_data.xml",
+        "CNt/std_module_strings_CNt.xml"
+      ]
+    }
+  ]
+}

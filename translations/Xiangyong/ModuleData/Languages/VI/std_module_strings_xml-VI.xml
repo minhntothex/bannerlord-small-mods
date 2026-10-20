@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="str_xy_militia_name" text="Dân binh Xiangyong của {SETTLEMENT_NAME}" />
+  </strings>
+</base>

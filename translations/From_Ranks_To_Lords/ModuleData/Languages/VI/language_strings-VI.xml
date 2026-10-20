@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="AgLoj" text="Thưa lãnh chúa, tôi đã chiến đấu hết mình trong các chiến dịch của ngài. Gia đình tôi ngày một đông, tham vọng của tôi cũng vậy. Liệu tôi có thể đảm nhận một vị trí cao hơn một người lính bình thường không?" />
+    <string id="frc_promo_humble" text="Thưa ngài, xin thứ lỗi vì lời thỉnh cầu đường đột. Tôi luôn cố gắng trở thành một người lính tốt. Nếu ngài cho phép, tôi tin mình có thể phụng sự ngài ở một vị trí cao hơn." />
+    <string id="frc_promo_confident" text="Thưa chỉ huy, tôi đã đổ máu vì ngài trên hàng chục chiến trường. Tôi xứng đáng hơn đám binh lính thường, cả hai ta đều biết vậy. Đã đến lúc ngài ban thưởng xứng đáng cho tôi." />
+    <string id="frc_promo_family" text="Thưa lãnh chúa, tôi có gia đình đêm nào cũng cầu mong tôi bình an trở về. Tôi chiến đấu vì họ và vì ngài, nhưng muốn cho họ một cuộc sống tốt hơn mức lương lính tráng có thể mang lại. Xin cho tôi cơ hội chứng tỏ bản thân." />
+    <string id="frc_promo_veteran" text="Thưa lãnh chúa, tôi đã trải qua nhiều mùa đông hơn hầu hết binh lính trong quân đội này. Từ sau tấm khiên, tôi từng chứng kiến các đế chế trỗi dậy rồi sụp đổ. Xương cốt có thể đau nhức, nhưng đầu óc tôi vẫn minh mẫn. Tôi biết cách chỉ huy. Xin cho tôi cơ hội chứng minh điều đó." />
+    <string id="0Jqye" text="Ngươi đã chứng tỏ lòng dũng cảm. Ta sẽ ban cho ngươi một vị trí bên cạnh ta." />
+    <string id="MzxrK" text="Tôi sẽ không phụ lòng tin của ngài, thưa lãnh chúa." />
+    <string id="dPC1S" text="Bây giờ chưa phải lúc. Hãy tiếp tục phục vụ tận tụy." />
+    <string id="voKKJ" text="Tôi hiểu, thưa lãnh chúa. Tôi sẽ trở lại hàng ngũ." />
+    <string id="BIO_MINOR_BATTLES" text="những cuộc giao tranh nhỏ, không có chiến công đáng kể" />
+    <string id="BIO_SERVICE" text="{HERO} đã phục vụ trong hàng ngũ {CULTURE} với tác phong kỷ luật." />
+    <string id="BIO_PROMOTION" text="Được thăng chức vào ngày {DATE}, sau khi tiêu diệt {KILLS} kẻ địch." />
+    <string id="BIO_BATTLES" text="Gần đây, sử sách ghi lại: {BATTLES}." />
+    <string id="BIO_COMPANION" text="Hiện đang phục vụ thị tộc {CLAN} với tư cách bạn đồng hành trung thành." />
+    <string id="BIO_ENEMY_BANDITS" text="cướp" />
+    <string id="BIO_ENEMY_FORCES" text="quân địch" />
+    <string id="BIO_OPEN_FIELD" text="chiến trường ngoài trời" />
+    <string id="BIO_BATTLE_LINE" text="trận chiến tại {PLACE} chống lại {ENEMY}" />
+    <string id="PRTL_COMPJOIN" text="đã gia nhập đội ngũ của bạn với tư cách bạn đồng hành." />
+  </strings>
+</base>

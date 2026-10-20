@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="PT_MCM_Name" text="Performance Tweaks" />
+    <string id="PT_MCM_Group_General" text="Tình cảm" />
+    <string id="PT_MCM_Enable_Name" text="Bật tối ưu hóa hệ thống tình cảm" />
+    <string id="PT_MCM_Enable_Desc" text="Nếu bật, mod tối ưu các lượt tra cứu tình cảm của game gốc để giảm tải CPU mỗi ngày mà không làm thay đổi lối chơi." />
+    <string id="PT_MCM_RomanceLogging_Name" text="Ghi nhật ký tình cảm" />
+    <string id="PT_MCM_RomanceLogging_Desc" text="Nếu bật, thông tin liên quan đến bản vá sẽ được ghi vào nhật ký để gỡ lỗi." />
+    <string id="PT_MCM_RomanceValidate_Name" text="Chạy kiểm tra bộ nhớ đệm tình cảm" />
+    <string id="PT_MCM_RomanceValidate_Content" text="Chạy ngay" />
+    <string id="PT_MCM_RomanceValidate_Desc" text="Chạy lượt kiểm tra chuyên sâu hơn để xác nhận bộ nhớ đệm tình cảm không làm thay đổi hành vi trong game. Game có thể khựng lại trong lúc kiểm tra." />
+  </strings>
+</base>

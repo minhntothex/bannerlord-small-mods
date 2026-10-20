@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="BreakableOptG001" text="Vũ khí cán dài không có đòn vung" />
+    <string id="BreakableOptG002" text="Vũ khí cán dài có đòn vung" />
+    <string id="BreakableOptG003" text="Hệ số" />
+    <string id="BreakableOptG004" text="Giới hạn" />
+    <string id="BreakableOpt001" text="Bật/tắt sát thương lên vũ khí cán dài không có đòn vung" />
+    <string id="BreakableOpt001Hint" text="Cho phép gây sát thương lên vũ khí cán dài không có đòn vung. Mặc định bật." />
+    <string id="BreakableOpt002" text="Độ bền của vũ khí cán dài không có đòn vung" />
+    <string id="BreakableOpt002Hint" text="Độ bền cơ bản của vũ khí cán dài không có đòn vung. Mặc định: 200." />
+    <string id="BreakableOpt003" text="Bật/tắt sát thương lên vũ khí cán dài có đòn vung" />
+    <string id="BreakableOpt003Hint" text="Cho phép gây sát thương lên vũ khí cán dài có đòn vung. Mặc định bật." />
+    <string id="BreakableOpt004" text="Độ bền của vũ khí cán dài có đòn vung" />
+    <string id="BreakableOpt004Hint" text="Độ bền cơ bản của vũ khí cán dài có đòn vung. Mặc định: 300." />
+    <string id="BreakableOpt005" text="Sát thương lên vũ khí cán dài của nhân vật người chơi" />
+    <string id="BreakableOpt005Hint" text="Hệ số sát thương lên vũ khí cán dài của nhân vật người chơi. Mặc định: 1.0." />
+    <string id="BreakableOpt006" text="Sát thương lên vũ khí cán dài của NPC" />
+    <string id="BreakableOpt006Hint" text="Hệ số sát thương lên vũ khí cán dài của nhân vật không do người chơi điều khiển. Mặc định: 1.0." />
+    <string id="BreakableOpt007" text="Mức giảm sát thương lên vũ khí cán dài theo kỹ năng" />
+    <string id="BreakableOpt007Hint" text="Hệ số giảm sát thương lên vũ khí cán dài dựa trên kỹ năng Vũ khí cán dài. Mặc định: 0.33%." />
+    <string id="BreakableOpt008" text="Chiều dài tối thiểu của vũ khí cán dài" />
+    <string id="BreakableOpt008Hint" text="Chiều dài tối thiểu để vũ khí cán dài nhận sát thương. Mặc định: 0." />
+  </strings>
+</base>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData id="Vietnamese" name="Tiếng Việt" subtitle_extension="vi" supported_iso="vi,vie,vi-VN" under_development="false">
+  <LanguageFile xml_path="VI/str_EN-VI.xml" />
+</LanguageData>
