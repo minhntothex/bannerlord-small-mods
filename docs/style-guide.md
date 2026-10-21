@@ -6,6 +6,7 @@
 
 - Viết tiếng Việt tự nhiên, gọn và rõ chức năng. Nhãn, tùy chọn và thông báo giao diện cần ngắn; phần gợi ý phải giữ đủ điều kiện, con số và hệ quả.
 - Với lời thoại trong Companion to Family, From Ranks to Lords và Heroes Evolve, giữ quan hệ giữa người nói, ý định và sắc thái câu. Chọn cách xưng hô theo cảnh; tránh tiếng lóng hiện đại và lối cổ trang gượng ép.
+- Bandit Militias Redux: thủ lĩnh cướp xưng "ta", gọi người chơi "ngươi"; người chơi đáp lại cùng cặp ta/ngươi. Tiểu sử bách khoa gọi thủ lĩnh là "hắn"/"ả" theo nhánh `{?LEADER.GENDER}`.
 - Phân biệt lời thoại với nhãn giao diện, mô tả vật phẩm và thông báo hệ thống. Không làm nhẹ lời đe dọa, sự xúc phạm hay hậu quả được nêu trong nguồn.
 
 ## Tên riêng và thuật ngữ

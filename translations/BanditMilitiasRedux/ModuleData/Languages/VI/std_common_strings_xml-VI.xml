@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="BMPrimary" text="Thiết lập chính" />
+    <string id="BMSizeAdjustments" text="Điều chỉnh quy mô" />
+    <string id="BMAdjustments" text="Điều chỉnh băng cướp" />
+    <string id="BMXpOff" text="Tắt" />
+    <string id="BMXpNormal" text="Thường" />
+    <string id="BMXpHard" text="Khó" />
+    <string id="BMXpHardest" text="Khó nhất" />
+    <string id="BMGoldLow" text="Thấp" />
+    <string id="BMGoldNormal" text="Thường" />
+    <string id="BMGoldRich" text="Giàu" />
+    <string id="BMGoldRichest" text="Giàu nhất" />
+    <string id="BMHeroPoolCap" text="Giới hạn nhân vật dự trữ (mỗi gia tộc cướp)" />
+    <string id="BMHeroPoolCapDesc" text="Số nhân vật băng cướp tối đa của mỗi gia tộc cướp được giữ lại để dùng lại. Nhân vật băng cướp được thả, trốn thoát hoặc đang bị giam sẽ được dùng lại trong giới hạn này; nhân vật bị giết hoặc bị xử tử sẽ bị xóa vĩnh viễn và nhân vật mới sẽ được tạo ra." />
+    <string id="BMSpawning" text="Xuất hiện và hình thành" />
+    <string id="BMMergeSize" text="Quân số tối thiểu để sáp nhập" />
+    <string id="BMMergeSizeDesc" text="Toán cướp có quân số nhỏ hơn mức này sẽ không sáp nhập vào băng cướp." />
+    <string id="BMSplit" text="Xác suất tách băng mỗi ngày (%)" />
+    <string id="BMSplitDesc" text="Xác suất mỗi ngày một băng cướp đủ lớn sẽ tách ra." />
+    <string id="BMTrain" text="Bật huấn luyện băng cướp" />
+    <string id="BMTrainDesc" text="Thủ lĩnh cướp sẽ huấn luyện băng của mình." />
+    <string id="BMBanditOnly" text="Chỉ dùng cây binh chủng cướp" />
+    <string id="BMBanditOnlyDesc" text="Quân trong băng cướp chỉ nâng cấp thành binh chủng cướp khác, không bao giờ thành binh chủng chính quy của các phe. Tương thích với mod thêm hoặc mở rộng cây binh chủng cướp. Nếu ở một bậc không còn binh chủng cướp nào để nâng lên, việc huấn luyện dừng ở đó." />
+    <string id="BMDailyTrain" text="Xác suất huấn luyện mỗi ngày (%)" />
+    <string id="BMDailyTrainDesc" text="Mỗi ngày, băng cướp có xác suất này để được huấn luyện." />
+    <string id="BMTraining" text="Huấn luyện và tăng quân" />
+    <string id="BMXpBoost" text="Kinh nghiệm thưởng khi huấn luyện" />
+    <string id="BMXpBoostDesc" text="Kinh nghiệm cộng thêm mỗi lần huấn luyện. Mức Khó nhất cho đủ kinh nghiệm để nâng cấp quân đáng kể. Mức Tắt không cộng thêm kinh nghiệm." />
+    <string id="BMUpgrade" text="Tỷ lệ quân được nâng cấp mỗi lần huấn luyện (%)" />
+    <string id="BMUpgradeDesc" text="Mỗi lần huấn luyện, tối đa tỷ lệ quân này được nâng cấp. Tính cả kẻ cướp bóc." />
+    <string id="BMGrowChance" text="Xác suất tăng quân mỗi ngày (%)" />
+    <string id="BMGrowChanceDesc" text="Mỗi ngày, băng cướp có xác suất này để có thêm quân. Đặt 0 để tắt." />
+    <string id="BMGrowPercent" text="Mức tăng quân (%)" />
+    <string id="BMGrowPercentDesc" text="Mỗi lần tăng quân, quân số của băng tăng thêm theo tỷ lệ này so với quân số hiện tại." />
+    <string id="BMTier" text="Bậc quân tối đa khi huấn luyện" />
+    <string id="BMTierDesc" text="Huấn luyện không bao giờ nâng quân vượt quá bậc này." />
+    <string id="BMIgnore" text="Bỏ qua dân làng và đoàn buôn" />
+    <string id="BMIgnoreDesc" text="Băng cướp sẽ không tấn công dân làng hay đoàn buôn." />
+    <string id="BMExecHonorXp" text="Kinh nghiệm Danh dự khi xử tử thủ lĩnh băng cướp" />
+    <string id="BMExecHonorXpDesc" text="Kinh nghiệm phẩm chất Danh dự người chơi nhận được khi xử tử một thủ lĩnh băng cướp. Đặt 0 để tắt." />
+    <string id="BMStronger" text="Mức mạnh hơn tối đa của mục tiêu (%)" />
+    <string id="BMStrongerDesc" text="Băng cướp sẽ không giao chiến với đội quân mạnh hơn mình quá tỷ lệ này. 100 nghĩa là tấn công bất kể mục tiêu mạnh đến đâu." />
+    <string id="BMWeaker" text="Mức yếu hơn tối đa của mục tiêu (%)" />
+    <string id="BMWeakerDesc" text="Băng cướp sẽ không giao chiến với đội quân yếu hơn mình quá tỷ lệ này. 100 nghĩa là tấn công bất kể mục tiêu yếu đến đâu." />
+    <string id="BMPillage" text="Cho phép cướp phá làng" />
+    <string id="BMPillageDesc" text="Cho phép băng cướp cướp phá làng." />
+    <string id="BMPillageChance" text="Xác suất cướp phá mỗi giờ (%)" />
+    <string id="BMPillageChanceDesc" text="Mỗi giờ trong game, mỗi băng cướp có xác suất này để tính đến việc cướp phá một làng gần đó. Nên đặt thấp." />
+    <string id="BMRaidCapScale" text="Hệ số giới hạn cướp phá (%)" />
+    <string id="BMRaidCapScaleDesc" text="Điều chỉnh số vụ cướp phá làng tối đa diễn ra cùng lúc. Mức gốc được tự tính bằng (tổng số làng ÷ 10). 100% = mặc định. Thấp hơn thì ít vụ cướp phá cùng lúc hơn, cao hơn thì nhiều hơn." />
+    <string id="BMStringSetting" text="Tên băng cướp" />
+    <string id="BMStringSettingDesc" text="Tên đặt cho băng cướp." />
+    <string id="BMLeaderlessStringSetting" text="Tên băng cướp không thủ lĩnh" />
+    <string id="BMLeaderlessStringSettingDesc" text="Tên đặt cho băng cướp đã mất thủ lĩnh." />
+    <string id="BMStringSettingDefault" text="Băng cướp" />
+    <string id="BMLeaderlessStringSettingDefault" text="Băng cướp không thủ lĩnh" />
+    <string id="BMPartyName" text="{PARTY_NAME} của {LEADER_NAME}" />
+    <string id="BMRLeaderEpithet" text="{FIRST} {EPITHET}" />
+    <string id="BMMarkers" text="Đánh dấu băng cướp trên bản đồ" />
+    <string id="BMMarkersDesc" text="Hiện mọi băng cướp trên bản đồ." />
+    <string id="BMTrackSize" text="Quân số tối thiểu để theo dõi" />
+    <string id="BMTrackSizeDesc" text="Băng cướp nhỏ hơn mức này sẽ không được theo dõi." />
+    <string id="BMBanners" text="Cờ hiệu ngẫu nhiên riêng" />
+    <string id="BMBannersDesc" text="Mỗi băng cướp có một cờ hiệu ngẫu nhiên riêng. Tắt để dùng cờ hiệu mặc định của gia tộc cướp." />
+    <string id="BMRaidNotices" text="Thông báo khi làng bị cướp phá" />
+    <string id="BMRaidNoticesDesc" text="Hiện thông báo khi một băng cướp cướp phá làng của bạn." />
+    <string id="BMRemovePrisonerMessages" text="Ẩn thông báo bắt tù binh" />
+    <string id="BMRemovePrisonerMessagesDesc" text="Ẩn thông báo khi nhân vật băng cướp bị bắt làm tù binh hoặc được thả." />
+    <string id="BMCheckVoiceGender" text="Khớp giọng thoại với giới tính" />
+    <string id="BMCheckVoiceGenderDesc" text="Bảo đảm thủ lĩnh nữ dùng giọng thoại nữ. Tắt nếu thủ lĩnh nữ bị mất tiếng do lỗi." />
+    <string id="BMLoggingLevel" text="Mức ghi nhật ký" />
+    <string id="BMLoggingLevelDesc" text="Tệp nhật ký nằm ở &quot;Documents/Mount and Blade II Bannerlord/Configs/ModLogs/BanditMilitia_[Time].log&quot;" />
+    <string id="BMTesting" text="Chế độ thử nghiệm" />
+    <string id="BMTestingDesc" text="Dịch chuyển băng cướp đến chỗ bạn." />
+    <string id="BMMaxPerClan" text="Số băng cướp tối đa mỗi gia tộc" />
+    <string id="BMREncBase" text="{LEADER.FIRSTNAME} là một tên tướng cướp cầm đầu lũ côn đồ khát máu, đi cướp bóc dưới danh nghĩa {CLAN_NAME}." />
+    <string id="BMREncNoClan" text="bọn cướp vô chủ" />
+    <string id="BMREncEpithet1" text="Khắp nơi, người ta gọi {?LEADER.GENDER}ả{?}hắn{\?} là {LEADER.FIRSTNAME} {EPITHET}, kẻ đã thắng {WINS} {?MANY}trận{?}trận{\?}." />
+    <string id="BMREncEpithet2" text="Khắp nơi, người ta gọi {?LEADER.GENDER}ả{?}hắn{\?} là {LEADER.FIRSTNAME} {EPITHET}." />
+    <string id="BMREncDefeats" text="{?LEADER.GENDER}Ả{?}Hắn{\?} đã bại trận {DEFEATS} {?MANY}lần{?}lần{\?}." />
+    <string id="BMREncFear" text="Hơn ai hết, {?LEADER.GENDER}ả{?}hắn{\?} sợ {HUNTER}." />
+    <string id="BMRWho" text="Ngươi là ai, và đang phục vụ kẻ nào?" />
+    <string id="BMRWhoAnswer" text="Người ta gọi ta là {LEADER_NAME}. Bọn ta chẳng phục tùng lãnh chúa hay vua chúa nào, chỉ biết đến tiền bạc và những nẻo đường rộng mở." />
+    <string id="BMRContinue" text="Ra vậy. Giờ thì quay lại việc chính." />
+    <string id="BMRThreaten" text="Đầu hàng ngay, có khi ta còn tha mạng cho ngươi." />
+    <string id="BMRThreatenAnswer" text="Ha! Muốn vậy thì chặt đầu bọn ta trước đã. Xông lên, anh em!" />
+    <string id="BMRCaptiveIntro" text="Vậy là hết. Muốn làm gì ta thì tùy ngươi." />
+    <string id="BMRCaptiveKeep" text="Giờ ngươi là tù binh của ta." />
+    <string id="BMRCaptiveRelease" text="Cút khỏi mắt ta." />
+    <string id="BMRCaptiveExecute" text="Đừng mong ta nương tay. Đầu ngươi sẽ rơi!" />
+    <string id="BMRCaptiveExecuteAnswer" text="Vậy thì làm cho nhanh. Anh em của ta sẽ nhớ mặt ngươi, và chúng sẽ đi tìm ngươi." />
+    <string id="BMRCaptiveExecuteConfirm" text="Ta chẳng bận tâm. Chuẩn bị chết đi!" />
+    <string id="BMRCaptiveExecuteCancel" text="Thôi được. Giờ ngươi là tù binh của ta." />
+    <string id="BMGoldReward" text="Tiền thưởng khi hạ nhân vật băng cướp" />
+    <string id="BMRBounty" text="Bạn nhận {GOLD} denar tiền treo thưởng và {RENOWN} danh vọng nhờ hạ được {LEADER}." />
+    <string id="BMChatLogging" text="Ghi nhật ký vào khung trò chuyện" />
+    <string id="BMChatLoggingDesc" text="Ghi thông báo chẩn đoán vào khung trò chuyện trong game. Mặc định tắt; chỉ bật khi cần xử lý sự cố." />
+    <string id="BMFileLogging" text="Ghi nhật ký vào tệp" />
+    <string id="BMFileLoggingDesc" text="Ghi thông báo chẩn đoán vào Modules\BanditMilitiasRedux\Logs\BMR_*.log. Mặc định tắt; chỉ bật khi cần xử lý sự cố." />
+    <string id="BMSkipConversations" text="Bỏ qua hội thoại khi chạm trán" />
+    <string id="BMSkipConversationsDesc" text="Bỏ qua hội thoại khi chạm trán băng cướp. Nếu bật, bạn sẽ không thể hối lộ." />
+    <string id="BMMaxValue" text="Giá trị trang bị tối đa của nhân vật (denar)" />
+    <string id="BMMaxValueDesc" text="Giới hạn giá trị mỗi món trang bị cấp cho nhân vật băng cướp. Hữu ích khi mod khác thêm chiến lợi phẩm có giá trị rất cao." />
+    <string id="BMMinSize" text="Quân số tối thiểu" />
+    <string id="BMMinSizeDesc" text="Không hình thành băng cướp nhỏ hơn mức này." />
+    <string id="BMLooter" text="Chuyển đổi kẻ cướp bóc" />
+    <string id="BMLooterDesc" text="Số kẻ cướp bóc được chuyển thành binh chủng tốt hơn mỗi lần huấn luyện." />
+    <string id="BMPower" text="Sức mạnh và cân bằng" />
+    <string id="BMPowerDesc" text="Giới hạn tổng sức chiến đấu của mọi băng cướp cộng lại, tính theo tỷ lệ phần trăm so với mọi đội quân khác trên thế giới. Giá trị cao cho phép nhiều băng cướp hơn và mạnh hơn, nhưng có thể ảnh hưởng rõ đến cân bằng thế giới." />
+    <string id="BMModName" text="Bandit Militias Redux" />
+    <string id="BMAIBehavior" text="Hành vi và AI" />
+    <string id="BMAppearance" text="Hiển thị và tùy chỉnh" />
+    <string id="BMUI" text="Giao diện và thông báo" />
+    <string id="BMAdvanced" text="Nâng cao" />
+    <string id="BMCooldown" text="Thời gian chờ sáp nhập/tách băng (giờ)" />
+    <string id="BMCooldownDesc" text="Băng cướp không thể sáp nhập hoặc tách ra lần nữa cho đến khi đủ số giờ trong game này." />
+    <string id="BMIgnoreSizePenalty" text="Bỏ qua phạt tốc độ do quân số" />
+    <string id="BMIgnoreSizePenaltyDesc" text="Băng cướp di chuyển với tốc độ tối đa bất kể quân số." />
+    <string id="BMVillageBeingRaided" text="{villageBeingRaided.Name} đang bị {party.Name} cướp phá!" />
+    <string id="BMVillageRaided" text="{raidedSettlement?.Name} đã bị cướp phá! {party.Name} đang ôm đầy chiến lợi phẩm gần {townName}!" />
+    <string id="BMPlayerVillageBeingRaided" text="{banditMilitiaParty.Name} đang cướp phá làng {nearestVillage.Name} của bạn, gần {nearestVillage.Town?.Name}!" />
+    <string id="BMGenderSlider" text="Xác suất thủ lĩnh là nữ (%)" />
+    <string id="BMGenderSliderDesc" text="Xác suất thủ lĩnh băng cướp là nữ. 0 = toàn nam, 100 = toàn nữ." />
+    <string id="BMRPrisonerPretalk" text="Ngươi còn muốn gì ở ta nữa?" />
+    <string id="BMRPrisonerExecuteCancel" text="Nghĩ lại thì... hôm nay chưa phải lúc." />
+    <string id="BMREncDefected" text="{LEADER.FIRSTNAME} từng cầm đầu một lũ côn đồ khát máu, đi cướp bóc dưới danh nghĩa {OLD_CLAN}. Từ đó {?LEADER.GENDER}ả{?}hắn{\?} đã quay lưng với cuộc sống cũ của {?LEADER.GENDER}mình{?}mình{\?}, giờ đem thanh kiếm của {?LEADER.GENDER}mình{?}mình{\?} bán cho bất kỳ ai chịu trả tiền." />
+  </strings>
+</base>

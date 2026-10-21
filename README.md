@@ -25,13 +25,13 @@ Số liệu lấy từ các mod đang cài trong `~/Documents/bannerlord` ngày 
 | Performance Tweaks | `PerformanceTweaks` | `PerformanceTweaks` | v1.0.0 | `EN/pt_strings.xml` (EN) | 9 | 59 | Đã dịch |
 | Village Defense | `Xiangyong` | `Xiangyong` | v1.1.11 | `std_module_strings_xml.xml` (EN) và `CNs/std_module_strings_CNs.xml` (CNs) | 1 + 13 | 2 + 95 ký tự CNs | Đã dịch |
 | Enhanced Tournaments | `EnhancedTournaments` | `EnhancedTournaments` | v1.1.1 | `ES/std_enhancedtournaments_strings_ES.xml` (ES; không có EN) | 70 | 317 | Đã dịch |
-| Bandit Militias Redux | `BanditMilitiasRedux` | `BanditMilitiasRedux` | v4.8.10 | `std_common_strings_xml.xml` (EN) | 122 | 909 | Chưa dịch |
+| Bandit Militias Redux | `BanditMilitiasRedux` | `BanditMilitiasRedux` | v4.8.10 | `std_common_strings_xml.xml` (EN) | 122 | 909 | Đã dịch |
 | True Caravan Masters | `TrueCaravanMasters` | `TrueCaravanMasters` | v1.0.7.1 | `std_module_strings_xml.xml` (EN) | 169 | 1.343 | Chưa dịch |
 
 Ghi chú cho ba mod thêm ngày 2026-10-21:
 
 - Enhanced Tournaments không có catalog tiếng Anh. DLL của mod có văn bản tiếng Anh mặc định cho 50/70 ID; 20 ID còn lại cần đối chiếu catalog ES và IT. Danh sách giải đấu ghép mẫu `{TOWN_LINK}. {DIST_DESC}, {TRAVEL_ADVICE}…`, nên các mảnh như `ET_Dist_Close` và `ET_Advice_Safe` phải dịch thành mệnh đề ghép được vào mẫu. Đã dịch ngày 2026-10-21. `{TIER}` trong `ET_List_Item_Natural` là số bậc nên bản Việt thêm chữ "bậc", giống phần lớn catalog ngôn ngữ khác của mod.
-- Bandit Militias Redux có 12 chuỗi dùng nhánh điều kiện `{?…}`. Catalog nguồn trùng tên `std_common_strings_xml.xml` với một catalog của Native nhưng nằm trong module riêng.
+- Bandit Militias Redux có 12 chuỗi dùng nhánh điều kiện `{?…}`. Catalog nguồn trùng tên `std_common_strings_xml.xml` với một catalog của Native nhưng nằm trong module riêng. Đã dịch ngày 2026-10-21, gồm 3 ID mod gọi nhưng catalog nguồn thiếu (`supplemental_ids` trong cấu hình). Khoảng 30 nhãn và mô tả MCM trong catalog nguồn cũ hơn văn bản mặc định trong `BanditMilitiasRedux.dll` (ví dụ `BMWeaker`, `BMPillageChance`, `BMGrowPercent`); bản Việt dịch theo DLL vì DLL mô tả đúng hành vi hiện tại. Catalog nguồn ghi `{\\?}` ở 4 ID tiểu sử; bản Việt dùng `{\?}` như DLL và Native (`source_token_fixes`). Còn hai giới hạn: biệt danh thủ lĩnh (`the Bold`, `the Cruel`…) viết cứng trong DLL nên vẫn hiện tiếng Anh; tên mặc định "Băng cướp" chỉ áp dụng khi chưa có tệp cài đặt MCM, vì MCM lưu tên đã dùng.
 - True Caravan Masters nên dịch sau khi chốt thuật ngữ caravan; Native đang dùng cả "đoàn buôn" lẫn "đoàn lữ hành".
 
 Chỉ đưa catalog đích tiếng Việt vào repo. Giữ catalog nguồn trong thư mục cài mod; không sao chép nguồn vào submodule. Đặt bản dịch theo cấu trúc `translations/<ModuleId>/ModuleData/Languages/VI/`.

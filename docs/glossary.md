@@ -16,6 +16,9 @@ Heroes Evolve chưa có catalog tiếng Anh. Các mục của mod này được 
 | AgricultureEstate | slave decline | tỷ lệ nô lệ trốn thoát | Chỉ số | Nháp, cần duyệt; gợi ý trong catalog định nghĩa đây là xác suất nô lệ trốn mỗi ngày. Cùng catalog, ID `agricultureestate_ui_slave_decline`, `agricultureestate_hint_slave_decline`. |
 | AgricultureEstate | revolt risk | nguy cơ nổi loạn | Chỉ số | Nháp, cần duyệt. Cùng catalog, ID `agricultureestate_ui_revolt_risk`, `agricultureestate_hint_slave_decline`. |
 | AgricultureEstate | stockpile | kho dự trữ | Kho vật phẩm | Nháp, cần duyệt. Cùng catalog, ID `agricultureestate_ui_stockpile`, `agricultureestate_hint_production`. |
+| BanditMilitiasRedux | Bandit Militia (BM) | băng cướp | Đội quân | Đã chọn theo yêu cầu người dùng; tránh trùng "dân binh" của làng. Toán cướp thường của game vẫn là "toán cướp". `ModuleData/Languages/std_common_strings_xml.xml`, ID `BMStringSettingDefault`, `BMMergeSizeDesc`. |
+| BanditMilitiasRedux | brigand chief / leader | tướng cướp / thủ lĩnh (băng cướp) | Nhân vật | Nháp, cần duyệt. Cùng catalog, ID `BMREncBase`, `BMExecHonorXp`. |
+| BanditMilitiasRedux | merge / split | sáp nhập / tách băng | Cơ chế | Nháp, cần duyệt. Cùng catalog, ID `BMMergeSize`, `BMSplit`, `BMCooldown`. |
 | BreakablePolearms | swinging / non-swinging polearm | vũ khí cán dài có / không có đòn vung | Nhóm vũ khí | Nháp, cần duyệt. Cùng catalog, ID `BreakableOptG001`, `BreakableOptG002`. |
 | BreakablePolearms | hit points | độ bền | Thuộc tính vũ khí | Nháp, cần duyệt. Cùng catalog, ID `BreakableOpt002`, `BreakableOpt004`. |
 | ClanMigrationTweaks | defection | đổi phe | Quan hệ chính trị | Nháp, cần duyệt; dùng cho một gia tộc rời vương quốc để gia nhập phe khác. Cùng catalog, ID `CMT_DefectOffer`, `CMT_Body_DefectWar`. |

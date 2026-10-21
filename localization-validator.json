@@ -109,7 +109,65 @@
       "target_dir": "translations/BanditMilitiasRedux/ModuleData/Languages/VI",
       "catalogs": {
         "std_common_strings_xml.xml": "std_common_strings_xml-VI.xml"
-      }
+      },
+      "supplemental_ids": [
+        {
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMRPrisonerPretalk",
+          "text": "What else do you want from me?",
+          "reason": "Có trong BanditMilitiasRedux.dll v4.8.10 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMRPrisonerExecuteCancel",
+          "text": "On second thought... not today.",
+          "reason": "Có trong BanditMilitiasRedux.dll v4.8.10 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMREncDefected",
+          "text": "{LEADER.FIRSTNAME} once led a band of cutthroats that raided under the name of the {OLD_CLAN}. {?LEADER.GENDER}She{?}He{\\?} has since turned {?LEADER.GENDER}her{?}his{\\?} back on that life and now sells {?LEADER.GENDER}her{?}his{\\?} sword to whoever will pay for it.",
+          "reason": "Có trong BanditMilitiasRedux.dll v4.8.10 dưới dạng {=id} nhưng catalog nguồn không có"
+        }
+      ],
+      "source_token_fixes": [
+        {
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMREncEpithet1",
+          "token": "{\\\\?}",
+          "replacement": "{\\?}",
+          "reason": "Catalog nguồn ghi hai dấu gạch ngược; DLL và Native dùng {\\?}"
+        },
+        {
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMREncEpithet2",
+          "token": "{\\\\?}",
+          "replacement": "{\\?}",
+          "reason": "Catalog nguồn ghi hai dấu gạch ngược; DLL và Native dùng {\\?}"
+        },
+        {
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMREncDefeats",
+          "token": "{\\\\?}",
+          "replacement": "{\\?}",
+          "reason": "Catalog nguồn ghi hai dấu gạch ngược; DLL và Native dùng {\\?}"
+        },
+        {
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMREncFear",
+          "token": "{\\\\?}",
+          "replacement": "{\\?}",
+          "reason": "Catalog nguồn ghi hai dấu gạch ngược; DLL và Native dùng {\\?}"
+        }
+      ],
+      "allowed_warnings": [
+        {
+          "check": "untranslated",
+          "catalog": "std_common_strings_xml.xml",
+          "id": "BMModName",
+          "reason": "Tên mod giữ nguyên tiếng Anh"
+        }
+      ]
     },
     {
       "id": "TrueCaravanMasters",
