@@ -21,6 +21,10 @@ Heroes Evolve chưa có catalog tiếng Anh. Các mục của mod này được 
 | ClanMigrationTweaks | defection | đổi phe | Quan hệ chính trị | Nháp, cần duyệt; dùng cho một gia tộc rời vương quốc để gia nhập phe khác. Cùng catalog, ID `CMT_DefectOffer`, `CMT_Body_DefectWar`. |
 | CompanionToFamily | adopt into the family | nhận vào gia tộc | Quan hệ gia tộc | Nháp, cần duyệt. Cùng catalog, ID `CTF_PromoteOption`, `CTF_PromoteSuccess`. |
 | CompanionToFamily | noble status | thân phận quý tộc | Địa vị | Nháp, cần duyệt. Cùng catalog, ID `CTF_PromoteOption`, `CTF_DemoteOption`. |
+| EnhancedTournaments | prize / grand prize | giải thưởng / giải thưởng chính | Phần thưởng giải đấu | Nháp, cần duyệt; khớp Native "Giải thưởng giải đấu". Nguồn ES `ModuleData/Languages/ES/std_enhancedtournaments_strings_ES.xml` (EN trong DLL), ID `ET_Set_Reroll`, `ET_List_Item_Natural`. |
+| EnhancedTournaments | reroll / negotiate for a different prize | đổi giải thưởng / thương lượng đổi giải thưởng | Hành động | Nháp, cần duyệt. Cùng catalog, ID `ET_Set_Reroll`, `ET_Menu_Reroll`, `ET_Set_MaxRerolls`. |
+| EnhancedTournaments | sponsorship | tài trợ / tiền tài trợ | Thu nhập | Nháp, cần duyệt; khoản denar nhận hằng ngày theo thứ hạng. Cùng catalog, ID `ET_Grp_Sponsor`, `ET_Set_SpBase`, `ET_Msg_SponsorDaily`. |
+| EnhancedTournaments | participants | những người tham gia (giải đấu) | Nhân vật | Nháp, cần duyệt. Cùng catalog, ID `ET_Set_Relation_Hint`, `ET_Msg_RelAll`. |
 | From_Ranks_To_Lords | rank and file | binh lính thường | Cấp bậc quân đội | Nháp, cần duyệt. `ModuleData/Languages/language_strings.xml`, ID `frc_promo_confident`. |
 | From_Ranks_To_Lords | promotion | thăng chức | Thăng tiến | Nháp, cần duyệt. Cùng catalog, ID `BIO_PROMOTION`, `0Jqye`. |
 | HeroesEvolve | `Waffen und Rüstung` (DE); `armes et armure` (FR); `armas y armadura` (SP); `оружие и доспехи` (RU); `silahlar ve zırh` (TR) | tước vũ khí và giáp | Hành động / chiến lợi phẩm | Nháp, cần duyệt; không có catalog tiếng Anh. Các cụm xuất hiện trong lời yêu cầu giao nộp trang bị, ID `hev_strip`, và thông báo mất trang bị, ID `hev_robbed`. |

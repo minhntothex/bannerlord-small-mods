@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="ET_Name" text="Enhanced Tournaments" />
+    <string id="ET_Loaded" text="Đã kích hoạt Enhanced Tournaments!" />
+    <string id="ET_Close" text="Quay lại" />
+    <string id="ET_Grp_Main" text="Thiết lập chung" />
+    <string id="ET_Grp_Rewards" text="Phần thưởng và danh vọng" />
+    <string id="ET_Grp_Sponsor" text="Tài trợ" />
+    <string id="ET_Set_MaxBet" text="Mức cược cơ bản" />
+    <string id="ET_Set_MaxBet_Hint" text="Mức cược tối đa ở vòng đầu. Các vòng sau tăng dần (x2, x3, x4)." />
+    <string id="ET_Set_Bonus" text="Tiền thưởng thêm" />
+    <string id="ET_Set_Bonus_Hint" text="Số denar thưởng thêm khi bạn vô địch giải đấu." />
+    <string id="ET_Set_Renown" text="Danh vọng thưởng thêm" />
+    <string id="ET_Set_Renown_Hint" text="Danh vọng thưởng thêm cho gia tộc khi vô địch." />
+    <string id="ET_Set_Influence" text="Ảnh hưởng thưởng thêm" />
+    <string id="ET_Set_Influence_Hint" text="Ảnh hưởng thưởng thêm khi vô địch (nếu bạn thuộc một vương quốc)." />
+    <string id="ET_Set_Relation" text="Tăng quan hệ" />
+    <string id="ET_Set_Relation_Hint" text="Mức tăng quan hệ với người có thế lực trong thị trấn, những người tham gia giải đấu và thành viên gia tộc." />
+    <string id="ET_Set_Reroll" text="Cho phép đổi giải thưởng" />
+    <string id="ET_Set_Reroll_Hint" text="Thêm lựa chọn vào menu đấu trường để thương lượng đổi giải thưởng của giải đấu." />
+    <string id="ET_Set_MaxRerolls" text="Số lần đổi tối đa mỗi thị trấn" />
+    <string id="ET_Set_MaxRerolls_Hint" text="Số lần tối đa bạn có thể đổi giải thưởng ở một thị trấn trước khi giải đấu kết thúc." />
+    <string id="ET_Set_Crafted" text="Gồm cả vật phẩm chế tạo" />
+    <string id="ET_Set_Crafted_Hint" text="Cho phép vật phẩm chế tạo ngẫu nhiên xuất hiện làm giải thưởng." />
+    <string id="ET_Set_ShowActive" text="Hiện các giải đấu đang diễn ra" />
+    <string id="ET_Set_ShowActive_Hint" text="Thêm lựa chọn vào menu để xem mọi giải đấu đang diễn ra trên thế giới." />
+    <string id="ET_Set_SpBase" text="Tiền tài trợ cơ bản" />
+    <string id="ET_Set_SpBase_Hint" text="Số denar cơ bản dùng để tính tiền tài trợ hằng ngày." />
+    <string id="ET_Set_SpMaxRank" text="Ngưỡng thứ hạng nhận tài trợ" />
+    <string id="ET_Set_SpMaxRank_Hint" text="Thứ hạng trên bảng xếp hạng cần đạt để nhận tài trợ." />
+    <string id="ET_Menu_View" text="Xem các giải đấu đang diễn ra" />
+    <string id="ET_Menu_Reroll" text="Thương lượng đổi giải thưởng khác" />
+    <string id="ET_Limit_Reached" text="Bạn không thể thương lượng thêm ở thị trấn này." />
+    <string id="ET_Msg_PrizeChanged" text="Giải thưởng đã đổi thành: " />
+    <string id="ET_Msg_NoPrizes" text="Không tìm thấy giải thưởng nào khác." />
+    <string id="ET_Msg_Fail" text="Thương lượng thất bại." />
+    <string id="ET_Msg_Bonus" text="Tiền thưởng thêm: " />
+    <string id="ET_Msg_Renown" text="Danh vọng thưởng thêm: " />
+    <string id="ET_Msg_Influence" text="Ảnh hưởng thưởng thêm: " />
+    <string id="ET_Msg_Relation" text="Quan hệ được cải thiện với " />
+    <string id="ET_Msg_RelAll" text="Quan hệ với người có thế lực, những người tham gia và gia tộc đã được cải thiện!" />
+    <string id="ET_Msg_SponsorDaily" text="Đã nhận tiền tài trợ! " />
+    <string id="ET_Msg_Rank" text=" (Hạng " />
+    <string id="ET_Sponsorship" text="Tài trợ" />
+    <string id="ET_List_Title" text="Tin tức giải đấu" />
+    <string id="ET_List_Count" text="Hiện có giải đấu đang diễn ra ở {COUNT} thị trấn." />
+    <string id="ET_List_None" text="Không tìm thấy giải đấu nào đang diễn ra." />
+    <string id="ET_Dist_Close" text="Thị trấn này rất gần" />
+    <string id="ET_Dist_Medium" text="Đường đi không quá xa" />
+    <string id="ET_Dist_Far" text="Đường còn rất xa" />
+    <string id="ET_Advice_Safe" text="nên bạn sẽ dễ dàng đến kịp" />
+    <string id="ET_Advice_Risky" text="nên nếu khẩn trương, bạn vẫn đến kịp" />
+    <string id="ET_Advice_Impossible" text="nên e rằng bạn không đến kịp" />
+    <string id="ET_List_Item_Natural" text="{TOWN_LINK}. {DIST_DESC}, {TRAVEL_ADVICE}. Giải thưởng chính: {TYPE} bậc {TIER} - {ITEM_NAME}. Giá trị: {VAL}{GOLD_ICON}. {BONUS_TEXT}" />
+    <string id="ET_List_Bonus_Natural" text="Tiền thưởng: {BONUS}{GOLD_ICON}." />
+    <string id="ET_Type_Horse" text="Ngựa" />
+    <string id="ET_Type_1H" text="Vũ khí một tay" />
+    <string id="ET_Type_2H" text="Vũ khí hai tay" />
+    <string id="ET_Type_Pole" text="Vũ khí cán dài" />
+    <string id="ET_Type_Shield" text="Khiên" />
+    <string id="ET_Type_Bow" text="Cung" />
+    <string id="ET_Type_Xbow" text="Nỏ" />
+    <string id="ET_Type_Thrown" text="Vũ khí ném" />
+    <string id="ET_Type_Goods" text="Hàng hóa" />
+    <string id="ET_Type_Animal" text="Gia súc" />
+    <string id="ET_Type_Book" text="Sách" />
+    <string id="ET_Type_Head" text="Giáp đầu" />
+    <string id="ET_Type_Body" text="Giáp thân" />
+    <string id="ET_Type_Leg" text="Giáp chân" />
+    <string id="ET_Type_Hand" text="Giáp tay" />
+    <string id="ET_Type_Cape" text="Áo choàng" />
+    <string id="ET_Type_Barding" text="Giáp ngựa" />
+  </strings>
+</base>
