@@ -35,7 +35,7 @@
     <string id="agricultureestate_no_current_project" text="Không có dự án hiện tại" />
     <string id="agricultureestate_slave_capacity_exceeded" text="Đã vượt quá sức chứa nô lệ ({SLAVE_CAPACITY})" />
     <string id="agricultureestate_slave_capacity_exceed_when_land_sold" text="Bán đất sẽ khiến số nô lệ vượt quá sức chứa. Hãy đưa bớt nô lệ ra khỏi điền trang trước khi bán." />
-    <string id="agricultureestate_tried_selling_clearing_land" text="Toàn bộ thửa đất đang sở hữu đều được khai khẩn.&#10;Hãy hủy dự án khai khẩn đất trước khi bán." />
+    <string id="agricultureestate_tried_selling_clearing_land" text="Toàn bộ thửa đất đang sở hữu đều đang được khai khẩn.&#10;Hãy hủy dự án khai khẩn đất trước khi bán." />
     <string id="agricultureestate_not_enough_gold" text="Không đủ denar" />
     <string id="agricultureestate_project_queue_limit" text="Giới hạn hàng đợi dự án: {QUEUE_LIMIT}&#10;Tăng kỹ năng Quản trị để tăng giới hạn hàng đợi dự án." />
     <string id="agricultureestate_not_enough_undev_plots" text="Không đủ thửa đất chưa khai khẩn đang sở hữu" />
@@ -48,29 +48,29 @@
     <string id="agricultureestate_hint_buy_undev_land" text="Mua với giá {PLOT_UNDEV_BUY_PRICE}{GOLD_ICON} denar" />
     <string id="agricultureestate_hint_sell_undev_land" text="Bán với giá {PLOT_UNDEV_SELL_PRICE}{GOLD_ICON} denar" />
     <string id="agricultureestate_hint_prisoner_as_slaves" text="Có thể dùng tù binh cướp làm lao động.&#10;Sức chứa nô lệ phụ thuộc vào số thửa đất đang sở hữu.&#10;Giữ Shift và nhấp để chuyển tù binh vào nhanh." />
-    <string id="agricultureestate_hint_slave_decline" text="Tỷ lệ nô lệ trốn thoát là xác suất mỗi nô lệ bỏ trốn trong ngày.&#10;Nguy cơ nổi loạn là xác suất nô lệ đồng loạt nổi dậy trong ngày.&#10;Nguy cơ nổi loạn tăng nếu số nô lệ vượt quá số dân binh của làng.&#10;Nâng cấp công trình có thể cải thiện các chỉ số này.&#10;Đất không dùng lao động nô lệ sẽ tạo ra một khoản tiền thuê nhỏ mỗi ngày." />
+    <string id="agricultureestate_hint_slave_decline" text="Tỷ lệ nô lệ trốn thoát là xác suất mỗi nô lệ bỏ trốn trong ngày.&#10;Nguy cơ nổi loạn là xác suất nô lệ đồng loạt nổi dậy bằng vũ lực trong ngày.&#10;Nguy cơ nổi loạn tăng nếu số nô lệ vượt quá số dân binh của làng.&#10;Nâng cấp công trình có thể cải thiện các chỉ số này.&#10;Đất không dùng lao động nô lệ sẽ tạo ra một khoản tiền thuê nhỏ mỗi ngày." />
     <string id="agricultureestate_hint_production" text="Hàng hóa làm ra được đưa vào kho dự trữ để rút sau.&#10;  Nếu vượt quá sức chứa kho, việc sản xuất sẽ dừng.&#10;Giữ Shift và nhấp để rút nhanh toàn bộ hàng." />
-    <string id="agricultureestate_hint_sell_goods_to_village" text="Có thể đặt chế độ tự động bán hàng hóa làm ra tại chợ làng.&#10;Lưu ý: chợ làng thường trả giá thấp hơn chợ thị trấn.&#10;Nhấp để {STATUS} tính năng này." />
+    <string id="agricultureestate_hint_sell_goods_to_village" text="Có thể đặt chế độ tự động bán hàng hóa làm ra tại chợ làng.&#10;Lưu ý: chợ làng thường trả giá thấp hơn chợ thị trấn.&#10;Nhấp để chuyển sang: {STATUS}." />
     <string id="agricultureestate_hint_sell_goods_to_village_quick_action" text="Giữ Shift trái khi nhấp để đổi tùy chọn này cho TẤT CẢ các làng đang sở hữu." />
-    <string id="agricultureestate_hint_land_clearing" text="Khai khẩn đất sẽ chuyển 1 thửa đất chưa khai khẩn đang sở hữu thành thửa đất thông thường.&#10;Chi phí: {LAND_CLEARING_COST}{GOLD_ICON} denar&#10;Mỗi thửa đất khai khẩn thêm giúp tăng nhẹ tốc độ phát triển của làng.&#10;Thời gian: 240 giờ" />
-    <string id="agricultureestate_hint_patrol_upgrade" text="Mỗi cấp nâng cấp tuần tra giảm tỷ lệ trốn thoát 0.5% và nguy cơ nổi loạn 0.1%. Có thể nâng cấp tối đa 8 lần.&#10;Chi phí: {PATROL_UPGRADE_COST}{GOLD_ICON} denar&#10;Thời gian: 240 giờ" />
-    <string id="agricultureestate_hint_storehouse_upgrade" text="Mở rộng kho sẽ tăng sức chứa thêm 500.&#10;Chi phí: {STOREHOUSE_UPGRADE_COST}{GOLD_ICON} denar&#10;Thời gian: 240 giờ" />
+    <string id="agricultureestate_hint_land_clearing" text="Khai khẩn đất sẽ chuyển 1 thửa đất chưa khai khẩn đang sở hữu thành thửa đất thông thường.&#10;Chi phí: {LAND_CLEARING_COST}{GOLD_ICON}&#10;Mỗi thửa đất khai khẩn thêm giúp tăng nhẹ tốc độ phát triển của làng.&#10;Thời gian: 240 giờ" />
+    <string id="agricultureestate_hint_patrol_upgrade" text="Mỗi cấp nâng cấp tuần tra giảm tỷ lệ trốn thoát 0.5% và nguy cơ nổi loạn 0.1%. Có thể nâng cấp tối đa 8 lần.&#10;Chi phí: {PATROL_UPGRADE_COST}{GOLD_ICON}&#10;Thời gian: 240 giờ" />
+    <string id="agricultureestate_hint_storehouse_upgrade" text="Mở rộng kho sẽ tăng sức chứa thêm 500.&#10;Chi phí: {STOREHOUSE_UPGRADE_COST}{GOLD_ICON}&#10;Thời gian: 240 giờ" />
     <string id="agricultureestate_hint_abort_upgrade" text="Mọi tiến độ sẽ mất và denar đã chi sẽ không được hoàn lại." />
-    <string id="agricultureestate_hint_auto_buy_prisoners" text="Tự động mua tù binh cướp từ mọi toán quân ghé thăm làng này.&#10;Nhấp để {STATUS} tính năng này." />
+    <string id="agricultureestate_hint_auto_buy_prisoners" text="Tự động mua tù binh cướp từ mọi đội quân ghé thăm làng này.&#10;Nhấp để chuyển sang: {STATUS}." />
     <string id="agricultureestate_hint_show_ledger" text="Mở sổ kế toán ghi số liệu của tất cả điền trang đang sở hữu." />
     <string id="agricultureestate_estimated_daily_output" text="Sản lượng ước tính mỗi ngày" />
     <string id="agricultureestate_estimated_daily_output_entry" text="{NEWLINE}{MULTIPLIER} X {ITEM}" />
     <string id="agricultureestate_estimated_daily_output_rent" text="{MULTIPLIER}{GOLD_ICON} X tiền thuê đất" />
-    <string id="agricultureestate_perk_mountedpatrols" text="Điền trang nông nghiệp: Giảm 20% tỷ lệ nô lệ trốn thoát." />
-    <string id="agricultureestate_perk_forcedlabor" text="Điền trang nông nghiệp: Cho phép dùng tù binh không phải cướp làm lao động nô lệ." />
-    <string id="agricultureestate_perk_slavetrader" text="Điền trang nông nghiệp: Các điền trang mua nô lệ với giá thấp hơn 20%." />
-    <string id="agricultureestate_perk_insuranceplans" text="Điền trang nông nghiệp: Hoàn trả một nửa chi phí đất bị chiếm trong chiến tranh." />
-    <string id="agricultureestate_perk_rapiddevelopment" text="Điền trang nông nghiệp: Hoàn trả một nửa chi phí đất bị chiếm trong chiến tranh." />
-    <string id="agricultureestate_perk_tradeyardforeman" text="Điền trang nông nghiệp: Các điền trang trong làng sản xuất chính đất sét, sắt, bông hoặc bạc tăng 20% sản lượng từ lao động nô lệ." />
-    <string id="agricultureestate_perk_granaryaccountant" text="Điền trang nông nghiệp: Các điền trang trong làng sản xuất chính ngũ cốc, ô liu, cá hoặc chà là tăng 20% sản lượng từ lao động nô lệ." />
-    <string id="agricultureestate_perk_breeder" text="Điền trang nông nghiệp: Các điền trang trong làng sản xuất chính ngựa tăng 10% sản lượng từ lao động nô lệ." />
-    <string id="agricultureestate_perk_contractors" text="Điền trang nông nghiệp: Chi phí nâng cấp điền trang giảm 15%." />
-    <string id="agricultureestate_perk_foreman" text="Điền trang nông nghiệp: Hoàn thành dự án khai khẩn đất sẽ tăng số hộ của làng thêm 30." />
+    <string id="agricultureestate_perk_mountedpatrols" text="Agriculture Estate: Giảm 20% tỷ lệ nô lệ trốn thoát." />
+    <string id="agricultureestate_perk_forcedlabor" text="Agriculture Estate: Cho phép dùng tù binh không phải cướp làm lao động nô lệ." />
+    <string id="agricultureestate_perk_slavetrader" text="Agriculture Estate: Các điền trang mua nô lệ với giá thấp hơn 20%." />
+    <string id="agricultureestate_perk_insuranceplans" text="Agriculture Estate: Hoàn trả một nửa chi phí đất bị chiếm trong chiến tranh." />
+    <string id="agricultureestate_perk_rapiddevelopment" text="Agriculture Estate: Hoàn trả một nửa chi phí đất bị chiếm trong chiến tranh." />
+    <string id="agricultureestate_perk_tradeyardforeman" text="Agriculture Estate: Các điền trang trong làng sản xuất chính đất sét, sắt, bông hoặc bạc tăng 20% sản lượng từ lao động nô lệ." />
+    <string id="agricultureestate_perk_granaryaccountant" text="Agriculture Estate: Các điền trang trong làng sản xuất chính ngũ cốc, ô liu, cá hoặc chà là tăng 20% sản lượng từ lao động nô lệ." />
+    <string id="agricultureestate_perk_breeder" text="Agriculture Estate: Các điền trang trong làng sản xuất chính ngựa tăng 10% sản lượng từ lao động nô lệ." />
+    <string id="agricultureestate_perk_contractors" text="Agriculture Estate: Chi phí nâng cấp điền trang giảm 15%." />
+    <string id="agricultureestate_perk_foreman" text="Agriculture Estate: Hoàn thành dự án khai khẩn đất sẽ tăng số hộ của làng thêm 30." />
     <string id="agricultureestate_lord_brought_prisoners" text="{LORD_NAME} đã chuyển {PRIOSNER_COUNT} tù binh đến điền trang của bạn tại {SETTLEMENT_NAME}." />
     <string id="agricultureestate_lord_sold_prisoners" text="{LORD_NAME} đã bán {PRISONER_COUNT} tù binh cho điền trang của bạn tại {SETTLEMENT_NAME} với giá {SELL_PRICE}{GOLD_ICON} denar." />
     <string id="agricultureestate_land_lost_due_to_war" text="Đất của bạn tại làng {SETTLEMENT_NAME} đã bị chiếm do chiến tranh với {WAR_TARGET}." />
@@ -80,7 +80,7 @@
     <string id="agricultureestate_estate_village" text="Làng" />
     <string id="agricultureestate_owned_plots" text="Thửa đất đang sở hữu" />
     <string id="agricultureestate_owned_undev_plots" text="Thửa đất chưa khai khẩn đang sở hữu" />
-    <string id="agricultureestate_last_day_income" text="Thu nhập ngày trước" />
+    <string id="agricultureestate_last_day_income" text="Thu nhập hôm qua" />
     <string id="agricultureestate_primary_production" text="Mặt hàng sản xuất chính" />
     <string id="agricultureestate_current_project" text="Dự án hiện tại" />
     <string id="agricultureestate_current_project_progress" text="Tiến độ dự án hiện tại" />

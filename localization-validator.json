@@ -2,7 +2,7 @@
   "schema_version": 1,
   "language_id": "Vietnamese",
   "source_language_id": "English",
-  "source_root": "Bannerlord",
+  "source_root": "bannerlord",
   "source_glob": "*.xml",
   "modules": [
     {

@@ -5,11 +5,11 @@
   </tags>
   <strings>
     <string id="hev_strip" text="Giao nộp vũ khí và giáp của ngươi cho ta." />
-    <string id="hev_strip_reply" text="Ngươi định tước vũ khí của kẻ đã bị đánh bại sao? Làm vậy thật mất danh dự. Cứ lấy đi. Thị tộc ta sẽ biết chuyện này, và thị tộc của ngươi cũng vậy." />
+    <string id="hev_strip_reply" text="Ngươi định tước vũ khí của người mà ngươi đã đánh bại sao? Làm vậy thật mất danh dự. Cứ lấy đi. Gia tộc ta sẽ biết chuyện này, và gia tộc của ngươi cũng vậy." />
     <string id="hev_strip_reprisal" text="Ngươi chẳng có chút danh dự nào để ta xúc phạm. Giao nộp vũ khí và giáp cho ta." />
     <string id="hev_strip_reprisal_reply" text="Đợi ngươi cướp của ta xong rồi hãy nói về danh dự. Cứ lấy đi, lấy hết đi. Chưa đầy một tháng ta sẽ có trang bị tốt hơn. Kẻ tiếp theo bị ta lột sạch, chỉ còn chiếc áo trên người, có khi sẽ mang họ của ngươi." />
     <string id="hev_strip_friend" text="Đừng để bụng. Đưa vũ khí và giáp cho ta." />
-    <string id="hev_strip_friend_reply" text="Ta có thể mong điều này từ bất cứ ai, trừ ngươi. Cứ lấy đi. Ta không còn gì để nói." />
+    <string id="hev_strip_friend_reply" text="Ta có thể ngờ chuyện này từ bất kỳ ai, trừ ngươi. Cứ lấy đi. Ta không còn gì để nói với ngươi." />
     <string id="hev_robbed" text="{VICTIM} đã bị {CAPTOR} tước vũ khí và giáp." />
     <string id="hev_robbed_reprisal" text="{VICTIM} đã bị {CAPTOR} tước vũ khí và giáp để trả đũa." />
     <string id="hev_strip_take" text="Ta sẽ lấy chúng." />
@@ -17,7 +17,7 @@
     <string id="hev_released_scavenged" text="Trên đường rời đi, bạn đã nhặt được một ít trang bị đơn giản trong hành lý của những kẻ bắt giữ, cùng loại với trang bị bạn mang trước đó." />
     <string id="hev_of_faction" text="{NAME} của {FACTION}" />
     <string id="hev_released_given" text="Những kẻ bắt giữ đã thả bạn đi cùng một ít trang bị đơn giản để dùng dọc đường, cùng loại với trang bị bạn mang trước đó." />
-    <string id="hev_strip_vengeance" text="Thị tộc ngươi đã cướp của một người trong thị tộc ta. Giao vũ khí và giáp của ngươi cho ta." />
-    <string id="hev_strip_vengeance_reply" text="Ra đây là câu trả lời. Cứ lấy đi, coi như chuyện giữa hai thị tộc chúng ta kết thúc tại đây." />
+    <string id="hev_strip_vengeance" text="Gia tộc ngươi đã cướp của một người trong gia tộc ta. Giao vũ khí và giáp của ngươi cho ta." />
+    <string id="hev_strip_vengeance_reply" text="Ra đây là câu trả lời. Cứ lấy đi, coi như chuyện giữa hai gia tộc chúng ta kết thúc tại đây." />
   </strings>
 </base>

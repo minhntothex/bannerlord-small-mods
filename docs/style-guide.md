@@ -11,6 +11,7 @@
 ## Tên riêng và thuật ngữ
 
 - Dùng [glossary](glossary.md) cho thuật ngữ đã chốt. Giữ nguyên tên riêng khi chưa có căn cứ Việt hóa; ghi bản dịch đề xuất ở trạng thái chờ duyệt.
+- Giữ nguyên tên chính thức của mod trong chuỗi giao diện, như `Agriculture Estate`, `Clan Migration Tweaks` và `Performance Tweaks`.
 - Ưu tiên catalog tiếng Anh khi mod có catalog đó. Các catalog ngôn ngữ khác chỉ dùng để đối chiếu.
 - Heroes Evolve không có catalog tiếng Anh trong bản cài hiện tại. Đối chiếu tiếng Đức, Pháp, Nga, Tây Ban Nha và Thổ Nhĩ Kỳ; ghi rõ chỗ còn mơ hồ thay vì tự đoán.
 - Các tùy chọn của Xiangyong hiện chỉ có catalog tiếng Trung giản thể và phồn thể. Đối chiếu cả hai bản; giữ thuật ngữ chưa rõ ở trạng thái chờ xác minh.

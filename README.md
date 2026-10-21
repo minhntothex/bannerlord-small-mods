@@ -36,8 +36,35 @@ Ghi chú cho các mod chưa dịch:
 
 Chỉ đưa catalog đích tiếng Việt vào repo. Giữ catalog nguồn trong thư mục cài mod; không sao chép nguồn vào submodule. Đặt bản dịch theo cấu trúc `translations/<ModuleId>/ModuleData/Languages/VI/`.
 
+## Thư viện phụ thuộc của các mod đã dịch
+
+Danh sách đọc từ `SubModule.xml` của bản cài đặt ngày 2026-10-21; không tính game gốc.
+
+| Mod | Thư viện phụ thuộc |
+|---|---|
+| Agriculture Estate | Harmony |
+| Breakable Polearms | UIExtenderEx, MCM |
+| Clan Migration Tweaks | Harmony, ButterLib, UIExtenderEx, MCM |
+| Companion to Family | Không có |
+| From Ranks to Lords | Không có |
+| Heroes Evolve | Không có |
+| Performance Tweaks | Harmony, ButterLib, UIExtenderEx, MCM |
+| Village Defense (Xiangyong) | Harmony, MCM |
+
+Heroes Evolve không có catalog tiếng Anh. Cấu hình dùng catalog tiếng Đức để kiểm độ phủ; DLL chứa văn bản mặc định tiếng Anh cho 15 ID, dùng để đối chiếu ngữ nghĩa.
+
 ## Quy tắc
 
 - Đọc [bảng thuật ngữ chung](../../docs/glossary.md), [hướng dẫn dịch của dự án](docs/style-guide.md) và [bảng thuật ngữ của dự án](docs/glossary.md), rồi làm theo [quy trình chung](../../docs/workflow.md) và [quy tắc dịch chung](../../docs/translation-style.md).
 - Giữ nguyên ID, placeholder, markup và cấu trúc catalog.
 - Chỉ viết hướng dẫn cài đặt hoặc phát hành sau khi xác minh cách game nạp ngôn ngữ và tính tương thích.
+
+## Kiểm tra bản dịch
+
+Chạy từ thư mục gốc repo. `--game-dir` trỏ tới thư mục cha của `bannerlord`:
+
+```sh
+python3 tools/validate_localization.py --game-dir ~/Documents --mod SmallMods
+```
+
+Lệnh mặc định cho phép catalog chưa dịch trong phạm vi; dùng `--strict` khi kiểm một catalog hoặc phạm vi đã hoàn tất.

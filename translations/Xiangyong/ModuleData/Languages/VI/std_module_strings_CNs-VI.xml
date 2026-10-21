@@ -16,6 +16,6 @@
     <string id="xy119_mid_count" text="Quân số dân binh cấp trung" />
     <string id="xy119_high_count" text="Quân số dân binh cấp cao" />
     <string id="xy119_legend_count" text="Quân số dân binh huyền thoại" />
-    <string id="xy119_militia_name" text="Dân binh {VILLAGE_NAME}" />
+    <string id="xy119_militia_name" text="Dân binh Xiangyong của {VILLAGE_NAME}" />
   </strings>
 </base>
