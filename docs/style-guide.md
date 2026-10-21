@@ -1,6 +1,6 @@
 # Quy ước dịch
 
-Áp dụng cho tám mod trong [phạm vi dự án](../README.md). Tài liệu này bổ sung [quy tắc dịch chung](../../../docs/translation-style.md) của workspace.
+Áp dụng cho các mod trong [phạm vi dự án](../README.md). Tài liệu này bổ sung [quy tắc dịch chung](../../../docs/translation-style.md) của workspace.
 
 ## Giọng văn
 

@@ -89,6 +89,36 @@
         "CNt/language_data.xml",
         "CNt/std_module_strings_CNt.xml"
       ]
+    },
+    {
+      "id": "EnhancedTournaments",
+      "source_dir": "EnhancedTournaments/ModuleData/Languages",
+      "source_glob": "ES/std_enhancedtournaments_strings_ES.xml",
+      "target_dir": "translations/EnhancedTournaments/ModuleData/Languages/VI",
+      "source_language_ids": {
+        "ES/std_enhancedtournaments_strings_ES.xml": "Español (LA)"
+      },
+      "catalogs": {
+        "ES/std_enhancedtournaments_strings_ES.xml": "std_enhancedtournaments_strings_ES-VI.xml"
+      }
+    },
+    {
+      "id": "BanditMilitiasRedux",
+      "source_dir": "BanditMilitiasRedux/ModuleData/Languages",
+      "source_glob": "std_common_strings_xml.xml",
+      "target_dir": "translations/BanditMilitiasRedux/ModuleData/Languages/VI",
+      "catalogs": {
+        "std_common_strings_xml.xml": "std_common_strings_xml-VI.xml"
+      }
+    },
+    {
+      "id": "TrueCaravanMasters",
+      "source_dir": "TrueCaravanMasters/ModuleData/Languages",
+      "source_glob": "std_module_strings_xml.xml",
+      "target_dir": "translations/TrueCaravanMasters/ModuleData/Languages/VI",
+      "catalogs": {
+        "std_module_strings_xml.xml": "std_module_strings_xml-VI.xml"
+      }
     }
   ]
 }
