@@ -70,6 +70,9 @@ Hai thuật ngữ dưới đây đã duyệt trong [glossary chung](../../../doc
 
 - AgricultureEstate: 10 chuỗi nguồn ghi `\n` dạng chữ; bản Việt dùng ký tự xuống dòng `&#10;`. DLL của mod không có đoạn đổi `\n` thành xuống dòng. Văn bản mặc định trong DLL dùng ký tự xuống dòng thật, nên tác giả muốn xuống dòng và bản Việt đúng ý nguồn. Chỉ còn cần xác nhận cách hiển thị trong game.
 - From Ranks to Lords `PRTL_COMPJOIN`: xem tên nhân vật có hiện trong thông báo không (mục P2).
+- Enhanced Tournaments: đọc danh sách giải đấu với đủ 9 tổ hợp `ET_Dist_*` + `ET_Advice_*`, và xem `{TIER}` có đúng là số bậc không.
+- Bandit Militias Redux: xem nhánh giới tính `{?LEADER.GENDER}` trong tiểu sử thủ lĩnh, và tên băng cướp khi chưa có tệp cài đặt MCM.
+- True Caravan Masters: xem catalog Việt có được dùng khi game chạy tiếng Việt và MCM "Selected Language" để "Tự động".
 - AgricultureEstate `agricultureestate_perk_rapiddevelopment`: nguồn trùng nguyên văn `agricultureestate_perk_insuranceplans`, và bản dịch chép theo. Đây là lỗi của mod.
 
 ## Thông tin nguồn còn thiếu

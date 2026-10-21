@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<base type="string">
+  <tags>
+    <tag language="Vietnamese" />
+  </tags>
+  <strings>
+    <string id="tcm_ask_manage_guards" text="Ta muốn thay đổi thành phần hộ vệ trong đoàn buôn của ngươi." />
+    <string id="tcm_ask_manage_workshops" text="Ta muốn sắp xếp việc giao hàng cho các xưởng của chúng ta." />
+    <string id="tcm_buy_license_ask" text="Ta muốn mua giấy phép Thương hội khu vực cho gia tộc của ta." />
+    <string id="tcm_buy_license_cancel" text="Không, giờ thì chưa." />
+    <string id="tcm_buy_license_cancel_reply" text="Được thôi. Nếu ngài đổi ý thì cứ báo ta." />
+    <string id="tcm_buy_license_cant_afford" text="Hiện giờ ta không đủ tiền." />
+    <string id="tcm_buy_license_cant_afford_reply" text="Phải rồi. Bảo trợ một giấy phép thương hội đòi hỏi khoản đầu tư không nhỏ." />
+    <string id="tcm_buy_license_cost_response" text="Được, ta có thể bảo trợ giấy phép cho ngài. Bảo trợ giấy phép thương hội bậc {TIER} của ngài sẽ tốn {COST}{GOLD_ICON}. Ngài chấp nhận chứ?" />
+    <string id="tcm_buy_license_locked_ask" text="Ta muốn mua giấy phép Thương hội khu vực (Yêu cầu: {REQUIRED_TEXT})" />
+    <string id="tcm_buy_license_locked_reply" text="Ta không thể bảo trợ cho ngài. Bảo trợ một giấy phép buôn bán đòi hỏi danh tiếng hoặc kinh nghiệm đáng kể. Ngài phải có ít nhất {REQUIRED_TEXT} thì thương hội mới cấp được giấy phép." />
+    <string id="tcm_buy_license_notification" text="Đã mua giấy phép Thương hội khu vực bậc {TIER}! Giới hạn đoàn buôn đã tăng." />
+    <string id="tcm_buy_license_pay_confirm" text="Được, tiền đây." />
+    <string id="tcm_buy_license_success_reply" text="Tốt lắm. Việc bảo trợ giấy phép của ngài đã được những người có thế lực trong thương hội địa phương ghi nhận. Giới hạn đoàn buôn hoạt động của ngài đã tăng." />
+    <string id="tcm_caravan_limit_response" text="Rất tiếc, gia tộc của ngài đã đạt giới hạn tối đa {LIMIT} đoàn buôn. Thương hội địa phương sẽ không cấp thêm giấy phép buôn bán cho ngài cho đến khi ngài mua thêm giấy phép hoặc mở rộng gia tộc." />
+    <string id="tcm_caravan_recall_msg" text="Đoàn buôn của {LEADER} đang quay lại gặp bạn." />
+    <string id="tcm_caravan_recall_threat" text="Đoàn buôn của {LEADER} đã được gọi về nhưng đang tránh các mối nguy gần đó trước." />
+    <string id="tcm_delivery_disabled" text="ĐÃ TẮT" />
+    <string id="tcm_delivery_enabled" text="ĐÃ BẬT" />
+    <string id="tcm_form_caravan_limit_ask" text="Ta muốn lập một đoàn buôn ở thị trấn này." />
+    <string id="tcm_guard_cancel" text="Thôi, bỏ đi." />
+    <string id="tcm_guard_cancel_response" text="Vâng, ngài còn cần gì nữa không?" />
+    <string id="tcm_guard_default" text="Hộ vệ đoàn buôn thông thường (Không tốn thêm)" />
+    <string id="tcm_guard_heavy" text="Kỵ binh nặng (Kỵ binh bọc giáp nặng/Hiệp sĩ) - Chi phí: 5.000 denar" />
+    <string id="tcm_guard_horse_archers" text="Cung kỵ (Cận vệ Khả hãn) - Chi phí: 6.000 denar" />
+    <string id="tcm_guard_lancer" text="Kỵ binh nhẹ (Kỵ thương)" />
+    <string id="tcm_guard_light" text="Kỵ binh nhẹ (Kỵ thương) - Chi phí: 3.000 denar" />
+    <string id="tcm_guard_response" text="Ngài muốn chúng tôi tuyển loại quân nào? Quân cưỡi ngựa bậc cao tốn nhiều tiền thuê hơn." />
+    <string id="tcm_guard_success" text="Vâng, chúng tôi sẽ đổi quân ngay." />
+    <string id="tcm_insufficient_funds" text="Chúng ta không đủ denar để nâng cấp." />
+    <string id="tcm_master_caravan_choice" text="Ta muốn loại tốt nhất trong những loại tốt nhất. Ta sẵn sàng trả {MASTER_COST}{GOLD_ICON} để lập một đoàn buôn." />
+    <string id="tcm_mcm_base_size_basic" text="Quân số gốc của đoàn buôn Thường" />
+    <string id="tcm_mcm_base_size_basic_hint" text="Giới hạn quân số gốc của đoàn buôn Thường mới lập của người chơi (mặc định: 30)." />
+    <string id="tcm_mcm_base_size_elite" text="Quân số gốc của đoàn buôn Tinh nhuệ" />
+    <string id="tcm_mcm_base_size_elite_hint" text="Giới hạn quân số gốc của đoàn buôn Tinh nhuệ mới lập của người chơi (mặc định: 50)." />
+    <string id="tcm_mcm_base_size_master" text="Quân số gốc của đoàn buôn Thượng hạng" />
+    <string id="tcm_mcm_base_size_master_hint" text="Giới hạn quân số gốc của đoàn buôn Thượng hạng mới lập của người chơi (mặc định: 80)." />
+    <string id="tcm_mcm_buy_basic" text="Giảm giá mua của đoàn buôn Thường" />
+    <string id="tcm_mcm_buy_basic_hint" text="Hệ số giảm giá khi đoàn buôn Thường mua hàng." />
+    <string id="tcm_mcm_buy_elite" text="Giảm giá mua của đoàn buôn Tinh nhuệ" />
+    <string id="tcm_mcm_buy_elite_hint" text="Hệ số giảm giá khi đoàn buôn Tinh nhuệ mua hàng." />
+    <string id="tcm_mcm_buy_master" text="Giảm giá mua của đoàn buôn Thượng hạng" />
+    <string id="tcm_mcm_buy_master_hint" text="Hệ số giảm giá khi đoàn buôn Thượng hạng mua hàng." />
+    <string id="tcm_mcm_cargo_basic" text="Sức chở cộng thêm của đoàn buôn Thường" />
+    <string id="tcm_mcm_cargo_basic_hint" text="Hệ số cộng thêm sức chở cho đoàn buôn Thường (ví dụ 0.00 = +0%, 0.50 = +50% giới hạn trọng lượng)." />
+    <string id="tcm_mcm_cargo_elite" text="Sức chở cộng thêm của đoàn buôn Tinh nhuệ" />
+    <string id="tcm_mcm_cargo_elite_hint" text="Hệ số cộng thêm sức chở cho đoàn buôn Tinh nhuệ (ví dụ 0.50 = +50% giới hạn trọng lượng)." />
+    <string id="tcm_mcm_cargo_master" text="Sức chở cộng thêm của đoàn buôn Thượng hạng" />
+    <string id="tcm_mcm_cargo_master_hint" text="Hệ số cộng thêm sức chở cho đoàn buôn Thượng hạng (ví dụ 1.00 = +100% giới hạn trọng lượng)." />
+    <string id="tcm_mcm_cargo_opt" text="Tối ưu lợi nhuận hàng chở" />
+    <string id="tcm_mcm_cargo_opt_hint" text="Khi đoàn buôn sắp đầy, trưởng đoàn có kỹ năng Giao thương cao ưu tiên hàng xa xỉ (ví dụ lụa, dầu) và mua ít hàng cồng kềnh (ví dụ ngũ cốc) hơn." />
+    <string id="tcm_mcm_feed_rumors" text="Gửi tin đồn giao thương" />
+    <string id="tcm_mcm_feed_rumors_hint" text="Khi ghé các thị trấn, đoàn buôn của người chơi tự gửi tin đồn giá cả về giao diện giao thương của người chơi." />
+    <string id="tcm_mcm_prevent_herd" text="Tránh phạt tốc độ do lùa đàn" />
+    <string id="tcm_mcm_prevent_herd_hint" text="Ngăn đoàn buôn mua thừa gia súc và ngựa dự phòng, để tránh bị phạt tốc độ khi lùa đàn. Đồng thời cộng thêm giới hạn đàn theo kỹ năng Giao thương (+10 đến +20)." />
+    <string id="tcm_mcm_max_pack_ratio" text="Giới hạn thú thồ của đoàn buôn nhỏ" />
+    <string id="tcm_mcm_max_pack_ratio_hint" text="Tỷ lệ thú thồ tối đa mà đoàn buôn nhỏ (&lt;= 30 quân) mang theo so với quân số (mặc định: 0.50)." />
+    <string id="tcm_mcm_min_pack_ratio" text="Giới hạn thú thồ của đoàn buôn lớn" />
+    <string id="tcm_mcm_min_pack_ratio_hint" text="Tỷ lệ thú thồ tối thiểu mà đoàn buôn lớn (&gt;= 80 quân) mang theo so với quân số (mặc định: 0.30)." />
+    <string id="tcm_mcm_group_balances" text="Cân bằng đoàn buôn" />
+    <string id="tcm_mcm_group_buy" text="Giảm giá mua (Mặc cả)" />
+    <string id="tcm_mcm_group_cargo" text="Sức chở hàng" />
+    <string id="tcm_mcm_group_companions" text="Chung và người đồng hành" />
+    <string id="tcm_mcm_group_limits" text="Giới hạn đoàn buôn" />
+    <string id="tcm_mcm_group_localization" text="Thiết lập ngôn ngữ" />
+    <string id="tcm_mcm_group_ransom" text="Hệ thống tiền chuộc" />
+    <string id="tcm_mcm_group_sell" text="Giá bán cộng thêm (Mặc cả)" />
+    <string id="tcm_mcm_group_size" text="Thiết lập quân số" />
+    <string id="tcm_mcm_group_smarter_trading" text="Giao thương thông minh và tin đồn" />
+    <string id="tcm_mcm_group_speed" text="Hệ số tốc độ" />
+    <string id="tcm_mcm_group_wage" text="Giảm lương" />
+    <string id="tcm_mcm_group_xp_sharing" text="Chia kinh nghiệm Giao thương" />
+    <string id="tcm_mcm_lang_auto" text="Tự động (ngôn ngữ của game)" />
+    <string id="tcm_mcm_license_cost_multiplier" text="Hệ số chi phí giấy phép" />
+    <string id="tcm_mcm_license_cost_multiplier_hint" text="Điều chỉnh số denar cần để mua hoặc nâng cấp giấy phép thêm suất đoàn buôn (mặc định: 1.0x)." />
+    <string id="tcm_mcm_limit_opt_a" text="Lựa chọn A: Theo danh vọng" />
+    <string id="tcm_mcm_limit_opt_b" text="Lựa chọn B: Theo Giao thương" />
+    <string id="tcm_mcm_limit_opt_c" text="Lựa chọn C: Chỉ cần tiền" />
+    <string id="tcm_mcm_disable_limits" text="Tắt giới hạn đoàn buôn" />
+    <string id="tcm_mcm_disable_limits_hint" text="Tắt hẳn giới hạn suất đoàn buôn của mod, cho phép lập không giới hạn đoàn buôn (yêu cầu về người đồng hành của game gốc vẫn áp dụng)." />
+    <string id="tcm_limit_unlimited" text="Không giới hạn" />
+    <string id="tcm_mcm_limit_req" text="Điều kiện thêm suất đoàn buôn" />
+    <string id="tcm_mcm_limit_req_hint" text="Chọn cách người chơi đủ điều kiện mua giấy phép thêm suất đoàn buôn." />
+    <string id="tcm_mcm_master_cost" text="Chi phí lập đoàn buôn Thượng hạng" />
+    <string id="tcm_mcm_master_cost_hint" text="Điều chỉnh số denar cần để lập đoàn buôn Thượng hạng (mặc định của TCM: 35.000 denar)." />
+    <string id="tcm_mcm_min_prosperity_for_license" text="Thịnh vượng tối thiểu để cấp giấy phép" />
+    <string id="tcm_mcm_min_prosperity_for_license_hint" text="Mức thịnh vượng tối thiểu một thị trấn cần có để bảo trợ giấy phép Thương hội (mặc định: 5.000)." />
+    <string id="tcm_mcm_ransom_cost" text="Tiền chuộc đoàn buôn" />
+    <string id="tcm_mcm_ransom_cost_hint" text="Điều chỉnh số denar cần để giải cứu Trưởng đoàn buôn bị bắt (mặc định của game gốc/TCM: 1.000 denar)." />
+    <string id="tcm_mcm_ransom_option" text="Hệ thống chuộc đoàn buôn" />
+    <string id="tcm_mcm_ransom_option_hint" text="Hiện cửa sổ khi đoàn buôn của người chơi bị tiêu diệt, cho phép trả tiền để giải cứu người đồng hành ngay." />
+    <string id="tcm_mcm_receive_xp_notifications" text="Nhận thông báo kinh nghiệm" />
+    <string id="tcm_mcm_receive_xp_notifications_hint" text="Bật/tắt thông báo kinh nghiệm Giao thương liên quan đến đoàn buôn trong nhật ký." />
+    <string id="tcm_mcm_selected_language" text="Ngôn ngữ đã chọn" />
+    <string id="tcm_mcm_selected_language_hint" text="Chọn ngôn ngữ cho mọi tính năng của mod. 'Tự động' dùng ngôn ngữ đang đặt trong game." />
+    <string id="tcm_mcm_sell_basic" text="Giá bán cộng thêm của đoàn buôn Thường" />
+    <string id="tcm_mcm_sell_basic_hint" text="Hệ số tăng giá khi đoàn buôn Thường bán hàng." />
+    <string id="tcm_mcm_sell_elite" text="Giá bán cộng thêm của đoàn buôn Tinh nhuệ" />
+    <string id="tcm_mcm_sell_elite_hint" text="Hệ số tăng giá khi đoàn buôn Tinh nhuệ bán hàng." />
+    <string id="tcm_mcm_sell_master" text="Giá bán cộng thêm của đoàn buôn Thượng hạng" />
+    <string id="tcm_mcm_sell_master_hint" text="Hệ số tăng giá khi đoàn buôn Thượng hạng bán hàng." />
+    <string id="tcm_mcm_size_scaling" text="Quân số cộng thêm theo bậc gia tộc" />
+    <string id="tcm_mcm_size_scaling_hint" text="Quân số cộng thêm cho mỗi bậc gia tộc của chủ đoàn buôn." />
+    <string id="tcm_mcm_smarter_trading" text="AI giao thương thông minh" />
+    <string id="tcm_mcm_smarter_trading_hint" text="Quyết định của đoàn buôn (mua, bán, điểm đến) thay đổi linh hoạt theo kỹ năng Giao thương của trưởng đoàn." />
+    <string id="tcm_mcm_spawn_companions" text="Cho Trưởng đoàn buôn riêng của mod xuất hiện" />
+    <string id="tcm_mcm_spawn_companions_hint" text="Bật/tắt việc Garrick, Maldor và Sildur xuất hiện ở các quán rượu." />
+    <string id="tcm_mcm_speed_basic" text="Hệ số tốc độ của đoàn buôn Thường" />
+    <string id="tcm_mcm_speed_basic_hint" text="Điều chỉnh hệ số tốc độ di chuyển gốc của đoàn buôn Thường." />
+    <string id="tcm_mcm_speed_elite" text="Hệ số tốc độ của đoàn buôn Tinh nhuệ" />
+    <string id="tcm_mcm_speed_elite_hint" text="Điều chỉnh hệ số tốc độ di chuyển gốc của đoàn buôn Tinh nhuệ." />
+    <string id="tcm_mcm_speed_master" text="Hệ số tốc độ của đoàn buôn Thượng hạng" />
+    <string id="tcm_mcm_speed_master_hint" text="Điều chỉnh hệ số tốc độ di chuyển gốc của đoàn buôn Thượng hạng." />
+    <string id="tcm_mcm_threat_routing" text="Chọn đường tránh nguy hiểm" />
+    <string id="tcm_mcm_threat_routing_hint" text="Trưởng đoàn có kỹ năng Giao thương/Trinh sát cao sẽ linh hoạt tránh các thị trấn nằm trong vùng chiến sự hoặc bị bọn cướp/kẻ thù vây quanh." />
+    <string id="tcm_mcm_title" text="True Caravan Masters" />
+    <string id="tcm_mcm_wage_basic" text="Giảm lương của đoàn buôn Thường" />
+    <string id="tcm_mcm_wage_basic_hint" text="Hệ số giảm lương cho đoàn buôn Thường (0.00 = giảm 0%, 1.00 = miễn phí 100%)." />
+    <string id="tcm_mcm_wage_elite" text="Giảm lương của đoàn buôn Tinh nhuệ" />
+    <string id="tcm_mcm_wage_elite_hint" text="Hệ số giảm lương cho đoàn buôn Tinh nhuệ (0.15 = giảm 15%)." />
+    <string id="tcm_mcm_wage_master" text="Giảm lương của đoàn buôn Thượng hạng" />
+    <string id="tcm_mcm_wage_master_hint" text="Hệ số giảm lương cho đoàn buôn Thượng hạng (0.30 = giảm 30%)." />
+    <string id="tcm_mcm_workshop_supply" text="Tự động cung ứng cho xưởng" />
+    <string id="tcm_mcm_workshop_supply_hint" text="Bật tự động chuyển hàng giữa đoàn buôn và xưởng ở khu định cư mà đoàn buôn ghé qua." />
+    <string id="tcm_mcm_xp_sharing_companion_ratio" text="Tỷ lệ chia kinh nghiệm cho người đồng hành" />
+    <string id="tcm_mcm_xp_sharing_companion_ratio_hint" text="Điều chỉnh tỷ lệ kinh nghiệm chia cho người đồng hành (0.50 = 50% kinh nghiệm)." />
+    <string id="tcm_mcm_xp_sharing_player_ratio" text="Tỷ lệ chia kinh nghiệm cho người chơi" />
+    <string id="tcm_mcm_xp_sharing_player_ratio_hint" text="Điều chỉnh tỷ lệ kinh nghiệm Giao thương của đoàn buôn chia cho người chơi (1.00 = 100% kinh nghiệm)." />
+    <string id="tcm_mcm_xp_sharing_target" text="Người đồng hành được chia kinh nghiệm" />
+    <string id="tcm_mcm_xp_sharing_target_hint" text="Chọn những người đồng hành được chia kinh nghiệm Giao thương mà đoàn buôn kiếm được." />
+    <string id="tcm_mcm_xp_target_all" text="Mọi người đồng hành trong gia tộc" />
+    <string id="tcm_mcm_xp_target_in" text="Chỉ người đồng hành trong đội quân" />
+    <string id="tcm_mcm_xp_target_none" text="Không ai" />
+    <string id="tcm_mcm_xp_target_out" text="Chỉ người đồng hành ngoài đội quân" />
+    <string id="tcm_ransom_abandon" text="Bỏ mặc" />
+    <string id="tcm_ransom_captured" text="{COMPANION} đã bị kẻ thù bắt." />
+    <string id="tcm_ransom_escaped" text="{COMPANION} đã thoát khỏi đoàn buôn bị tiêu diệt và gia nhập đội quân của bạn." />
+    <string id="tcm_ransom_escaped_town" text="{COMPANION} đã thoát khỏi đoàn buôn bị tiêu diệt và đang đợi bạn ở {TOWN}." />
+    <string id="tcm_ransom_gold_failed" text="Bạn không đủ tiền để trả tiền chuộc!" />
+    <string id="tcm_ransom_pay" text="Trả {COST}" />
+    <string id="tcm_ransom_success" text="{COMPANION} đã được thả và quay lại đội quân của bạn." />
+    <string id="tcm_ransom_success_town" text="{COMPANION} đã được thả và đang đợi bạn ở {TOWN}." />
+    <string id="tcm_ransom_text" text="Đoàn buôn do {COMPANION} dẫn đầu đã bị tiêu diệt. Trả {RANSOM_COST} denar tiền chuộc để Trưởng đoàn buôn của bạn được thả ngay?" />
+    <string id="tcm_ransom_title" text="Đoàn buôn bị tiêu diệt!" />
+    <string id="tcm_recruit_msg" text="Đã tuyển {COUNT} {TROOP_NAME} để bổ sung quân số cho đoàn buôn của {LEADER}. Chi phí: {COST} denar." />
+    <string id="tcm_recruit_msg_partial" text="Chỉ tuyển được một phần: {COUNT} {TROOP_NAME} để bổ sung quân số cho đoàn buôn của {LEADER}. Chi phí: {COST} denar." />
+    <string id="tcm_tooltip_base_size" text="TCM: Điều chỉnh quân số gốc" />
+    <string id="tcm_tooltip_cargo" text="TCM: Sức chở cộng thêm" />
+    <string id="tcm_tooltip_clan_size" text="TCM: Cộng thêm theo bậc gia tộc" />
+    <string id="tcm_tooltip_speed" text="Tốc độ cộng thêm của đoàn buôn" />
+    <string id="tcm_tooltip_wage_discount" text="Giảm lương đoàn buôn" />
+    <string id="tcm_upgrade_license_ask" text="Ta muốn nâng cấp giấy phép Thương hội khu vực của mình." />
+    <string id="tcm_upgrade_license_locked_ask" text="Ta muốn nâng cấp giấy phép Thương hội khu vực của mình (Yêu cầu: {REQUIRED_TEXT})" />
+    <string id="tcm_village_bought" text="Đoàn buôn của {LEADER} đã mua {QTY} {ITEM} từ {VILLAGE} với giá {COST}{GOLD_ICON}." />
+    <string id="tcm_workshop_back" text="Quay lại." />
+    <string id="tcm_workshop_back_response" text="Vâng, ngài còn cần gì nữa không?" />
+    <string id="tcm_workshop_delivered" text="Đã giao {QTY} {ITEM} vào kho của {WORKSHOP}." />
+    <string id="tcm_workshop_loaded" text="Đã chất {QTY} {ITEM} từ kho của {WORKSHOP} lên đoàn buôn." />
+    <string id="tcm_workshop_response" text="Ngài muốn bật/tắt việc giao hàng cho xưởng nào?" />
+    <string id="tcm_xp_earned" text="Đoàn buôn của {LEADER} nhận được {XP} kinh nghiệm Giao thương." />
+    <string id="tcm_xp_received" text="Bạn nhận được {XP} kinh nghiệm Giao thương từ đoàn buôn của {LEADER}." />
+    <string id="tcm_mcm_prisoner_ransoming" text="Tự động bán tù binh" />
+    <string id="tcm_mcm_prisoner_ransoming_hint" text="Khi vào thị trấn, đoàn buôn của người chơi sẽ tự động bán tù binh đã bắt, cộng số tiền vào ngân sách buôn bán của đoàn và hiện thông báo. Có thể tắt trong MCM." />
+    <string id="tcm_ransom_prisoners_log" text="Đoàn buôn của {LEADER} đã bán {COUNT} tù binh tại {TOWN} với giá {GOLD}{GOLD_ICON}." />
+    <string id="tcm_mcm_dynamic_saturation" text="Bão hòa thị trường linh hoạt" />
+    <string id="tcm_mcm_dynamic_saturation_hint" text="Trưởng đoàn linh hoạt giới hạn lượng hàng bán ở một thị trấn để không làm sụp giá, giữ hàng lại cho các chợ lân cận có giá tốt hơn." />
+    <string id="tcm_mcm_trade_congestion" text="Tránh dồn ứ giao thương" />
+    <string id="tcm_mcm_trade_congestion_hint" text="Đoàn buôn của người chơi sẽ tránh chọn cùng điểm đến với các đoàn buôn khác của mình, giúp phủ rộng khu vực buôn bán và tránh tự cạnh tranh làm sụp giá." />
+    <string id="tcm_mcm_show_troop_names" text="Hiện loại hộ vệ trong tên đoàn buôn" />
+    <string id="tcm_mcm_show_troop_names_hint" text="Bật/tắt việc hiện tên loại hộ vệ đã thuê trong tên đoàn buôn trên bản đồ (ví dụ '[Master] (Empire Reiksguard...) Caravan of Sildur'). Mặc định là BẬT." />
+    <string id="tcm_tooltip_wage_floor" text="TCM: Lương sàn" />
+    <string id="tcm_tooltip_prisoner_limit" text="TCM: Giới hạn tù binh" />
+    <string id="tcm_mcm_smart_sell_protection" text="Bảo vệ thông minh khi bán" />
+    <string id="tcm_mcm_smart_sell_protection_hint" text="Đoàn buôn nhớ giá đã trả cho từng món hàng và không bán dưới giá vốn, tránh các vụ buôn lỗ do AI của game gốc không nhớ giá mua." />
+    <string id="tcm_mcm_smart_buy_protection" text="Bảo vệ thông minh khi mua" />
+    <string id="tcm_mcm_smart_buy_protection_hint" text="Đoàn buôn không mua hàng có giá cao hơn đáng kể so với giá gốc chung, tránh trả quá giá ở các chợ bị đẩy giá và chôn tiền vào hàng không bán được." />
+    <string id="tcm_mcm_buy_threshold" text="Ngưỡng bảo vệ khi mua" />
+    <string id="tcm_mcm_buy_threshold_hint" text="Hệ số giá tối đa so với giá gốc chung trước khi đoàn buôn từ chối mua. Ở mức 1.5x, hàng có giá cao hơn mức trung bình chung từ 50% trở lên sẽ bị bỏ qua. Giá trị thấp = bảo vệ chặt hơn, giá trị cao = mua linh hoạt hơn." />
+  </strings>
+</base>

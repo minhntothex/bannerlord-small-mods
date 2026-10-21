@@ -176,7 +176,65 @@
       "target_dir": "translations/TrueCaravanMasters/ModuleData/Languages/VI",
       "catalogs": {
         "std_module_strings_xml.xml": "std_module_strings_xml-VI.xml"
-      }
+      },
+      "supplemental_ids": [
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_tooltip_wage_floor",
+          "text": "TCM Wage Floor",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_tooltip_prisoner_limit",
+          "text": "TCM Prisoner Limit",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_mcm_smart_sell_protection",
+          "text": "Smart Sell Protection",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_mcm_smart_sell_protection_hint",
+          "text": "Caravans remember what they paid for each item and refuse to sell below cost, preventing loss-making trades caused by the vanilla AI's lack of purchase memory.",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_mcm_smart_buy_protection",
+          "text": "Smart Buy Protection",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_mcm_smart_buy_protection_hint",
+          "text": "Caravans refuse to buy items priced significantly above their global base value, preventing them from overpaying in inflated markets and locking gold in unsellable inventory.",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_mcm_buy_threshold",
+          "text": "Buy Protection Threshold",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        },
+        {
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_mcm_buy_threshold_hint",
+          "text": "Maximum price multiplier above global base value before caravans refuse to buy. At 1.5x, items priced 50% or more above their global average will be skipped. Lower values = stricter protection, higher values = more flexible buying.",
+          "reason": "Có trong TrueCaravanMasters.dll v1.0.7.1 dưới dạng {=id} nhưng catalog nguồn không có"
+        }
+      ],
+      "allowed_warnings": [
+        {
+          "check": "untranslated",
+          "catalog": "std_module_strings_xml.xml",
+          "id": "tcm_mcm_title",
+          "reason": "Tên mod giữ nguyên tiếng Anh"
+        }
+      ]
     }
   ]
 }
